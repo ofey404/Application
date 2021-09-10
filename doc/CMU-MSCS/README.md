@@ -1,6 +1,14 @@
 Carnegie Mellon University - Master's Programs of Computer Science
 ==================================================================
 
+回答以下问题：
+
+- [ ] 官方提供哪些信息？
+- [ ] 选校会用到什么信息？
+- [ ] 整个申请流程是怎么样的？
+- [ ] 我需要关注信息中的哪些部分？
+- [ ] 有什么非官方、软性的事情需要注意？
+
 [CMU-MSCS Website](https://www.cs.cmu.edu/academics/masters/programs)
 
 [SCS Graduate Admissions Overview](https://www.cs.cmu.edu/academics/graduate-admissions)

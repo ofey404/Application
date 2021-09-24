@@ -164,3 +164,189 @@ It's not a stable version, and I suffers from the great firewall when I try to r
 
 I encountered many difficulties then, but I really enjoy myself while playing with it.
 
+
+------------
+
+## Updated after Sept. 14th
+
+
+## 21
+
+I'm sad I read less book in college than I did in high school.
+
+I worried that my screen time (on cell phone) is too long. I try to spend them in "meaningful" pages, like Hacker News or tech posts noticed on twitter.
+
+
+## 22
+
+Sometimes I feel pity on spending money, even on necessary usage.
+
+It may be my grandmother's influence.
+
+But now I am learning to take it easy, especially in spending money on long-term benificial things, like learning a skill...
+
+## 23
+
+I think I have some difficulty on executing long-term plan.
+
+Maybe I have a tendency of being too anxious about the undone works, which leads to procrastination.
+
+I don't have a regular bedtime, which would lead to unmeet schedule and anxiety.
+
+
+## 24
+
+Maybe I'm a bit addicted to manga, I would daily skim all updates of some manga websites, to find those I'd like to read.
+
+It's my way to relieve anxiety, sometime it works, sometimes it makes things worse.
+
+I start to think like a creater or editor of manga, and post some of my ideas on twitter.
+
+
+## 25
+
+I am a bit proud that I use linux and free & open source software everyday. They serve me well.
+
+Maybe saying "proud" is too arrogant, it's not something hard.
+
+Be a contributor may be something more worth mentioning.
+
+
+## 26
+
+I tried engaging in development of "wine", An old and famous open source project, through a open-source promotion plan in this summer. I exchanged several email with my potential tutor, but wasn't selected.
+
+I have another idea of that project and had written some code, and my tutor thought my idea may be valuable. But I procrastinated, didn't shape the code and push the task because I worried I was too novice, and I didn't have enough energy to do so.
+
+And their mailing list sends too much email every day.
+
+
+## 27 things that make me feel guilty 1
+
+I send email to Professor Zhang of DAS Lab in the middle of the semester, he assign me something I am not interested in, and I feel anxious and do not show up until the end of the semester.
+
+But in summer vacation I engaged in every group meeting, cooperating with a senior student, and made notable contribution on a KV research project.
+
+This time, I still have some doubt on the Machine Learning part of the KV project, but I discussed with another senior student, finding out what I'm good at and take them. After all, it's relieved that the outcome is good.
+
+
+## 28 things that make me feel guilty 2
+
+After My internship at PingCAP was over, I promised My HR Miss Kong to write a blog post sharing my experience of internship. I don't write it until now.
+
+At first I procrestinated. Then some impostor syndrome appears, I thought I hardly have any notable thing to say about my internship, I'm not as good as my colleges, especially those at the same age as me.
+
+The longer it goes, the harder it is to start writing the post.
+
+
+## 29 things that make me feel guilty 3
+
+I was writing a slack message backup bot for the computer enthusiast's group.
+
+But the progress is slow. When I back to my dormitory, I always feel tired and don't want to work on it.
+
+
+
+## 30
+
+I start to read more books in recent days. Hope it would be a better substitute to poking my phone screen.
+
+I read a history book by Hobsbawm, some essay about India by Naipaul, and a book about sex therapist.
+
+
+## 31
+
+I feel I am lack of energy for many things, like social interaction or executing a plan.
+
+Maybe I'm a little depressed.
+
+
+## 32
+
+I live a childhood without too much pressure from my family and the society.
+
+I don't compete for elite primary school or secondary school. At that time kids mostly go to community school.
+
+I have a childhood full of free time, collectable card game and fireworks.
+
+
+## 33
+
+I like surfing the internet, it might be the habit I kept for the longest time.
+
+My other habits, reading manga, learning skills, and getting news, are based on the Internet.
+
+But I build my friendship basically in my real life.
+
+
+## 34
+
+I can do most of the home cooking. Sometimes I would cook dinner for my family.
+
+I like to watch cooking video on Youtube and Bilibili.
+
+
+## 35
+
+I like unix command line. I also think unix philosophy is a good thing, but I know that my opinion is not very valuable for I don't have too much pratical experience.
+
+I put some effort on making all my tools's interface similiar, the configuration files about it are in my github repository ofey404/dotfiles.
+
+I give my operating system, my text editor and browser a vim-style key binding, with which I can fully control them from keyboard.
+
+
+## 37 RIP, Mr. Miura 1
+
+I'm shocked when I heard the early death of Miura Kentaro, author of the famous manga Berserk, at May 2021.
+
+It seems to me that his posthumous work can never be finished, even by another manga artist.
+
+Finish a famous posthumous manga is clearly a risky task, it can't make much profit or fame, and fans always feel unsatisified. No sane manga artist would take work like this.
+
+
+## 38 RIP, Mr. Miura 2
+
+But what if doujinshi, or in English, fan-fiction, can be created in the community working mode like open source software did?
+
+Nowadays most of manga art is created by computer graphics, even Mr. Miura use CG in his latter years. But those digital project files still live like paper, sitting on their author's computer.
+
+We still don't have a cooperation model for manga artists, like git for programmers.
+
+
+## 39 RIP, Mr. Miura 3
+
+The pixiv works well, as "an illustration communication service". But even in the Creative Commons License, only the final output - the image is shared, not how to create it.
+
+It's just like learning other's software without source code. In the digital world, the layers, brush strokes, are naturally redistributable. We just miss a sutable tool to distribute them.
+
+
+## 40 If there is such "git for manga artists"
+
+There would be new possibilities for fan-fiction community, and even for professional artists.
+
+It would be easier for fan community to continue a posthumous work. Even someone give up, their storyboard or image is still useful.
+
+Learning to create artwork might be easier.
+
+
+## 41
+
+I suffered from backache those days.
+
+
+## 42
+
+Believe it or not, the password of my computer is about Aaron Swartz.
+
+
+## 43
+
+Now I'm learning digital illustration as a pastime.
+
+I borrowed a graphic drawing tablet from a roommate, and learning to use krita.
+
+
+## 44
+
+
+

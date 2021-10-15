@@ -1,0 +1,165 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.5in,top=0.6in,right=0.5in,bottom=0.6in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\address{ +86 19921250323 }
+\address{Fudan University, Shanghai, 200433} % Your address
+\address{ofey206@gmail.com}
+% P.S. Or 17307110121@fudan.edu.cn?
+\name{Weiwen Chen} % Your name
+
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+% P.S. Maybe I should change the order of the education and technical strength section?
+\begin{rSection}{Education}
+
+{\bf Fudan University} \hfill {\em August 2017 - Present} 
+\\ Bachelor of Physics \hfill { GPA: 3.26/4}
+% P.S. Shouldn't I mention my GPA here? If I don't, this section would be empty.
+\\ Relevant Courses: Data Structure, Operating System, Computer Network, Introduction to Database.
+% P.S. Don't get A. But I don't have other things to put into this section.
+% Data Structure and Operating System are Enhancement Courses.
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	WORK AND RESEARCH EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Work and Research Experience}
+
+\begin{rSubsection}
+% FIXME: I cannot find Prof. Ye on google. Maybe I should find another teacher in lab as my supervisor?
+%        Only webpage I found relate to him is that:
+%        https://www.matec-conferences.org/articles/matecconf/abs/2018/91/matecconf_eitce2018_04079/matecconf_eitce2018_04079.html
+% SOC: System on chip.
+{School of Microelectronics, Fudan University}{Shanghai, China}
+{Teaching Assistant of SOC lab(Supervisor: Fei Ye, Camel Microelectronics)}
+{March 2018-November 2018}
+
+\item Implemented CAN bus protocol on M2 chip produced by camel microelectronics, with another freshmen. Working with bare address and register, since there is only a C compiler and no operating system.
+\item Prepared textbook, recorded video for summer course "SOC system". Those materials are still in use.
+ 
+\end{rSubsection}
+
+
+%------------------------------------------------
+
+\begin{rSubsection}
+% P.S. Link of the paper mentioned:
+%      https://www.nature.com/articles/s41699-020-0147-x
+{Department of Optical Science and Engineering, Fudan University}{Shanghai, China}
+{Member of Computational Physics Lab(Supervisor: Prof. Hao Zhang)}
+{June 2018-November 2019}
+
+\item Coded for data processing of a paper on npj 2D Materials and Applications, in the name of third author.
+% \item Also did miscellaneous, most infrastructural work: 
+\item Set up a private gitlab on the server of lab, wrote introduction documentation, and gave lectures about git.
+\item Wrote some crawlers and scripts to aggregate data from several researchers' website.
+% P.S. Maybe too much items here?
+
+
+\end{rSubsection}
+
+%------------------------------------------------
+
+\begin{rSubsection}
+% P.S. Should I include a link?
+{PingCAP Inc.}{Shanghai, China}
+{Intern of Quality Assurance Engineer(Mentor: Shaowen Yin)} {Nov 2020-April 2021}
+
+\item Built a metrics checker for automated test with golang.
+% https://github.com/PingCAP-QE/metrics-checker
+
+\item Built a tool, along with my mentor, to help developers debug inside the k8s container, with python and shell.
+% https://github.com/cosven/tidb-testing/tree/master/tipocket-ctl
+
+\item Did end-to-end test with developers in the release of a major version.
+
+% \item Made a presentation about fuzzing.
+
+\end{rSubsection}
+
+
+\begin{rSubsection}
+{Department of Computer Science, Fudan University}{Shanghai, China}
+{Member of Data Analysis and Security Lab(Supervisor: Prof. Kai Zhang)} {June 2021-Now}
+
+\item Tried to share the CMU's high-performance Key-Value database mica by multi tenants, with a doctoral student.
+\item Upgraded mica's DPDK support by introducing a test framework. It stuck the progress for about one month.
+% \item Made a presentation about image embedding.
+
+\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Programming Projects Session
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Programming Projects}
+
+{\bf PingCAP-QE/metrics-checker}: Check metrics from prometheus, during internship in PingCAP Inc.
+\\ {\bf cosven/tidb-testing/tipocket-ctl}: Tool to help developers debug TiDB in k8s container, during internship in PingCAP Inc. 
+\\ {\bf ofey404/CFM}: Simple fuzzing tool in rust, coding project of Introduction of Computer System Course.
+\\ {\bf ofey404/YAFTP}: A subset of FTP protocol in python, coding project of Computer Network Course.
+\\ {\bf Slack Backup Bot For FDUCSLG}: Tool to backup slack message for CS Lover's Group, Fudan University.
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Skills}
+
+{\bf Programming Languages(Ordered by proficiency):} python, cpp, golang, shell, rust, javascript and lisp.
+\\ {\bf Knowledge:} Database, operating system, algorithm, data structure, UNIX concepts, low level programming tools and other common sense that help me survive in the computer world.
+\\ {\bf Language:} Chinese, English. Want to learn some Japanese.
+\\
+\\ {\bf I learn things fast.}
+\\
+\\ {\bf Extracurriculars:} Vim, Emacs, VSCode, Gnome Desktop, guitar, bass and Bypassing GFW. Picking up drawing now, just follow the step of Feynman.
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Miscellanous} 
+I love manga, want to build a version control system for CG project files, "a git for manga artists".
+
+This project, if it's really be made, is dedicated to Miura Kentaro, author of the great manga Berserk. He died early at May 2021, a cooperation in fan-fiction community may be the only way to finish his posthumous work.
+
+\end{rSection}
+
+\end{document}

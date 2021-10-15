@@ -348,5 +348,59 @@ I borrowed a graphic drawing tablet from a roommate, and learning to use krita.
 
 ## 44
 
+I give a talk about fuzzing(generate random test case for software) in my group, when I was a intern in PingCAP.
+
+I selected some good webpage about fuzzing, read a book called "The fuzzing book", and shared a toy fuzzler I written in the Computer Architecture class.
+
+My colleagues seems like it, and one of them contacted me to do something about fuzzing, several monthes later after I leave PingCAP.
 
 
+
+## 45 My linux distribution
+
+My first linux distribution is Ubuntu 17.04, I met lots of problems, but those memories are my treasure. I feel joyful even I'm stucked and something doesn't work.
+
+Then I tried Archlinux for several monthes, and I installed one by hand, refering to the Arch Wiki page.
+
+I really like the Archwiki, it almost represents the highest standard of open source project.
+
+
+## 46 Psychology
+
+When I was 13 and began to be interested human mind, I was fascinated by psychology. I borrowed all psychology book from my father and read them all.
+
+At highschool, I read the famous textbook "Psychology and Life", the description about scientific method excited me. They are useful method that can be applied to daily life instantly, can help me to identify logic fallacies.
+
+
+## 47 I hate household registration policy
+
+I don't like household registration policy("Hukou") in China. When I was a primary school kid, my father struggled to get a Shanghai's, and failed.
+
+Most of my old family members are farmers, and they are discriminated, and rejected by the city they served. It's a tragedy.
+
+I hate it because it's an inequality made by purpose, it's an evil policy letting citizens exploit non-citizens.
+
+
+## 48
+
+I like cooking. After I moved to a room with kitchen, I tried a lot.
+
+Cooking is like an experiment. I learnt necessary skills from my mother and grandma, so I feel less friction in doing it, which makes me enjoy cooking easily.
+
+I read some famous cooking books those days.
+
+
+## 49
+
+I tried drawing this week, and it makes me happy. I like instant feedback, make a dish or interactive programming.
+
+I like to watch my thought come true, by my own hand.
+
+
+## 50 Congratulations!
+
+I finished my 50 + 20 in three weeks. If I can time travel back to three weeks ago, I would told myself:
+
+> Use your cell phone, collect your flash of thought and mail it to yourself.
+> 
+> Don't do it as a whole, which would put unnecessary pressure on yourself.

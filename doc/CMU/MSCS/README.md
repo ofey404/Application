@@ -1,9 +1,11 @@
 Master of Science in Computer Science
 =====================================
 
-## [信息源]
+太长不看版：
 
-[预览]
+培养目标：
+
+目标人群：有广义的技术背景，职业目标明确，希望成为 technical leader，能够有效利用学校的科研/应用研究/同学资源。
 
 
 ## [Overview Page of MSCS](https://csd.cmu.edu/academics/masters/overview)

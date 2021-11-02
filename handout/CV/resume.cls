@@ -25,7 +25,9 @@
 \usepackage[parfill]{parskip} % Remove paragraph indentation
 \usepackage{array} % Required for boldface (\bf and \bfseries) tabular columns
 \usepackage{ifthen} % Required for ifthenelse statements
-
+\usepackage{mathptmx}
+\usepackage{enumitem}
+ 
 \pagestyle{empty} % Suppress page numbers
 
 %----------------------------------------------------------------------------------------
@@ -110,16 +112,27 @@
 %	WORK EXPERIENCE FORMATTING
 %----------------------------------------------------------------------------------------
 
+\newenvironment{myItemize}
+  {\begin{itemize}[leftmargin=0em] \itemsep -0.5em \vspace{-0.5em}}
+  {\end{itemize}}
+
+\newenvironment{mySecondItemize}
+  {\begin{itemize} \itemsep -0.5em \vspace{-0.5em}}
+  {\end{itemize}}
+
 \newenvironment{rSubsection}[4]{ % 4 input arguments - company name, year(s) employed, job title and location
  {\bf #1} \hfill {#2} % Bold company name and date on the right
  \ifthenelse{\equal{#3}{}}{}{ % If the third argument is not specified, don't print the job title and location line
   \\
   {\em #3} \hfill {\em #4} % Italic job title and location
   }\smallskip
-  \begin{list}{$\cdot$}{\leftmargin=0em} % \cdot used for bullets, no indentation
-   \itemsep -0.5em \vspace{-0.5em} % Compress items in list together for aesthetics
+  \begin{myItemize}
   }{
-  \end{list}
+  \end{myItemize}
+%   \begin{list}{$\cdot$}{\leftmargin=0em} % \cdot used for bullets, no indentation
+%   \itemsep -0.5em \vspace{-0.5em} % Compress items in list together for aesthetics
+%   }{
+%   \end{list}
   \vspace{0.5em} % Some space after the list of bullet points
 }
 

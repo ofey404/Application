@@ -67,25 +67,56 @@
 {Department of Computer Science, Fudan University}{Shanghai, China}
 {Member of Data Analysis and Security Lab (Supervisor: Prof. Kai Zhang)} {Jun 2021\ -\ Now}
 
-\item Implemented multi tenant on CMU's high-performance Key-Value database mica, with a doctoral student.
-\item Introduced the idea of random sampling to speed up load estimation, based on my prior knowledge of Gprof.
+\item Developing multi tenant functionality on CMU's high-performance Key-Value database mica, with a doctoral student.
+\begin{mySecondItemize}
+    \item Writing sampling and logging code.
+    \item Engaging in development, debugging and performance optimization.
+\end{mySecondItemize}
+\item Implemented a request sampling strategy to estimate load effectively in mica, inspired by Gprof.
+\begin{mySecondItemize}
+    \item Utilized fast timing (dozen of CPU cycles) with Time Stamp Register.
+    \item Refactored the core module (processing) of mica, made it easier to read and develop.
+    \item Ensured performance loss is little during refactoring, by running and recording benchmark after each commit.
+    \item Cooperated with my collaborator with private github repository, manage progress by issues, PRs and projects.
+\end{mySecondItemize}
 \item Upgraded DPDK's incompatible API on mica's 30K line code base, by introducing a test framework.
+\begin{mySecondItemize}
+    \item Read the whole code base, had holistic understanding of the architecture of mica.
+    \item Identified modules needed to be upgraded, by drawing a dependency map to clarify modules' relationship.
+    \item Integrated an tiny test framework greatest.h into mica, finished upgrading in a week.
+\end{mySecondItemize}
+
 % \item Made a presentation about image embedding.
 
 \end{rSubsection}
+
 
 %--------PingCAP Inc.-----------------------
 
 \begin{rSubsection}
 % P.S. Should I include a link?
 {PingCAP Inc.}{Shanghai, China}
-{Intern of Quality Assurance Engineer (Mentor: Shaowen Yin)} {Nov 2020\ -\ Apr 2021}
+{Intern of Quality Assurance Engineer (Mentor: Shaowen Yin)} {Nov 2020\ -\ Apr 2021
+\\  Projects: github.com/PingCAP-QE/metrics-checker github.com/cosven/tidb-testing/tipocket-ctl
+}
 
-\item Built a metrics checker for automated test. Still maintained after I left. \hfill {\em github.com/PingCAP-QE/metrics-checker }
+\item Built a metrics checker for TiDB's automated test. Still maintained and used in pipeline after I left.
 
-\item Simplified debugging TiDB inside k8s container along with my mentor. \hfill {\em github.com/cosven/tidb-testing/tipocket-ctl }
+\begin{mySecondItemize}
+    \item Led the design and implementation with golang and Prometheus API.
+    \item Wrote tests and passed code review, then integrated it into existed argo workflow pipeline and CI/CD tools.
+    \item (It has been transferred to a private repository of PingCAP, so the project link is a snapshot.)
+\end{mySecondItemize}
 
-\item Accomplished end-to-end test with developers in the release of a major version.
+\item Simplified debugging TiDB inside k8s container by developing a tool along with my mentor.
+\begin{mySecondItemize}
+    \item Collected requirements from developers and got involved in the overall design.
+    \item Prototyped in-container part with python and shell script, maintained the script generator with my mentor.
+    \item Engaged in code review, maintenance and new feature request.
+\end{mySecondItemize}
+\item Accomplished end-to-end test with developers in the release of a major version on time.
+\item Return offer.
+
 
 % \item Made a presentation about fuzzing.
 
@@ -99,12 +130,23 @@
 %      https://www.nature.com/articles/s41699-020-0147-x
 {Department of Optical Science and Engineering, Fudan University}{Shanghai, China}
 {Member of Computational Physics Lab (Supervisor: Prof. Hao Zhang)}
-{Jun 2018\ -\ Nov 2019}
+{Jun 2018\ -\ Nov 2019
+\\ Publication: www.nature.com/articles/s41699-020-0147-x }
 
-\item Coded for data processing of a paper in the name of third author. \hfill {\em www.nature.com/articles/s41699-020-0147-x }
-% \item Also did miscellaneous, most infrastructural work: 
-\item Taught my colleagues workflow of git, set up a private Gitlab. Still invited to give lectures about CS from time to time.
-\item Wrote some crawlers and scripts to aggregate data from several researchers' website. Still in use.
+\item Coded for data processing of a paper on computational material research in the name of third author.
+\begin{mySecondItemize}
+    \item Build automatic data processing pipeline for material calculation program VASP, and visualized data with python.
+\end{mySecondItemize}
+\item Trained all colleagues workflow of git and set up a private Gitlab. Still invited to give lectures about CS.
+\begin{mySecondItemize}
+    \item Set up a private Gitlab on lab's server with Docker, write documentations about how to use it.
+    \item Gave lectures about git and basic linux tools.
+\end{mySecondItemize}
+\item Created some crawlers and scripts to aggregate data from several researchers' website. Still in use.
+\begin{mySecondItemize}
+    \item Wrote crawlers in scrapy to access public data files from some researchers' personal website.
+    \item Wrote a bunch of python scripts to interact with multiple material databases' API. 
+\end{mySecondItemize}
 % P.S. Maybe too much items here?
 
 
@@ -119,11 +161,66 @@
 {Teaching Assistant of SOC lab (Supervisor: Fei Ye, Camel Microelectronics)}
 {Mar 2018\ -\ Nov 2018}
 
-\item Implemented CAN bus protocol on M2 chip produced by camel microelectronics, with another freshmen. Working with bare address and register, since there is only a C compiler and no operating system.
-\item Prepared textbook, recorded video for summer course "SOC system". Sometimes lab members will ask me for help on linux, and newcomers of the lab can always recognize me for the video.
+\item Implemented CAN bus protocol on Camel's M2 chip, which has operating system, only a C compiler.
+\begin{mySecondItemize}
+    \item Made it from bottom up by reading documentations, since there is no mature tutorial on this topic.
+    \item Dealt with low level details like memory-mapped IO, which required understanding of abstractions in programming.
+    \item Helped my successors to integrate my CAN bus code into their projects in 2021 summer.
+\end{mySecondItemize}
+
+\item Organized teaching material into a textbook and demonstrated them by videos, as training material for newcomers.
+\begin{mySecondItemize}
+    \item Delivered lectures about all 10 labs in the textbook, as TA of "SOC: System On Chip" summer course.
+    \item Guided experiments, assigned and graded homework, held Q \& A sessions.
+    \item Gave personal consultancy to my students who wanted to push their projects further, even after the semester is over.
+\end{mySecondItemize}
  
 \end{rSubsection}
 
+{\bf Department of Physics, Fudan University } \hfill {\em Sept 2017\ -\ Now}
+\begin{myItemize}
+\item Built an atmosphere simulation and visualization, in python, at Statistical Physics lesson.
+\item Wrote an fuzzing tool, with rust,  on Computer Architecture lesson.
+\item Implemented a subset of FTP protocol, in python, as Project of Computer Network lesson.
+\end{myItemize}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	MISC STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Extracurriculum Experience}
+
+{\bf PC Service of Fudan University } \hfill {\em Mar 2017\ -\ June 2019}
+
+  \begin{list}{$\cdot$}{\leftmargin=0em} % \cdot used for bullets, no indentation
+   \itemsep -0.5em \vspace{-0.5em} % Compress items in list together for aesthetics
+\item Volunteered giving consultancy on python and system management.
+
+  \end{list}
+  
+\\ {\bf Computer Science Club of Fudan University } {\em github.com/ofey404/slack-backend-sh } \hfill {\em Nov 2020\ -\ Now }
+
+  \begin{list}{$\cdot$}{\leftmargin=0em} % \cdot used for bullets, no indentation
+   \itemsep -0.5em \vspace{-0.5em} % Compress items in list together for aesthetics
+\item Launched a bot to backup all messages on club's slack based bulletin board.
+  \end{list}
+  
+\\ {\bf Physics Experiment Teaching Center } \hfill {\em July 2019}
+
+  \begin{list}{$\cdot$}{\leftmargin=0em} % \cdot used for bullets, no indentation
+   \itemsep -0.5em \vspace{-0.5em} % Compress items in list together for aesthetics
+\item Automated oil and water droplet classification under microscope with machine learning.
+  \end{list}
+  
+% 和物理实验教学中心的老师关系很好，和他们合作过一个改进显微镜的项目——用机器学习分辨气泡和油滴。
+% 没有做过班干部/学生工作。
+% 不是党员、团员。
+% 会一些吉他/贝司。偶尔会去听学校的摇滚音乐节，参加过乐手联盟（社团）组织的乐理和合奏课程。
+% 按篇幅备选。和舆图社（一个地理社团）去过长株潭地区调研。
+% 和两任天文社长是好朋友，一起出去看星星。
+% 
 
 
 \end{rSection}
@@ -137,10 +234,12 @@
 \begin{rSection}{Skills}
 
 {\bf Programming Languages (in proficiency order):} python, cpp, golang, shell, rust, javascript and lisp.
-\\ {\bf Knowledge:} Database, operating system, algorithm, data structure, UNIX concepts, low level programming tools and other common sense that help me survive in the computer world.
-\\ {\bf Language:} Chinese, English.
-\\ {\bf I learn things fast.}
-\\ {\bf Extracurriculars:} Vim, Emacs, VSCode, Gnome Desktop, guitar, bass and bypassing GFW. Picking up drawing now.
+\\ {\bf Knowledge:} Database, operating system, algorithm, data structure.
+\\ {\bf Language:} Chinese (Native), English (TOEFL 105).
+\\ {\bf Extracurriculars:} Vim, Emacs, VSCode, Gnome Desktop, guitar, bass and bypassing GFW.
 
 \end{rSection}
-\end{document}
+
+
+
+\end{document}OC lab

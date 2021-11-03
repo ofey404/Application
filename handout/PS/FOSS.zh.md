@@ -15,4 +15,6 @@ Who I am & Why I apply to your school
 
 另外从最低的抽象层级开始把握整个系统有一种美感，这可能是选择过自然科学教育的我的一个偏好。『What I cannot create I cannot understand』，物理学家理查德·费曼说过，我的 ID ofey404，另一半就是为了纪念我的这个青春期偶像。（我甚至都没给摇滚乐手留位置）。
 
+// 少一些事实。事实是为了说明同一个点。
 
+积木。

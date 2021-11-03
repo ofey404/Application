@@ -23,6 +23,12 @@ I appreciated the ideas I witnessed in the community of free/open source softwar
 Heard the news that OpenSSL is maintained by only one full-time contributor, I was shocked. It just like everyone benefits from the world tree, but only one gardener is taking care of the root. I enjoyed so many other people's contribution, from operating system, software, tech blogs, and MOOCs, I want to do something for those public goods. I don't suppose that volunteering is the only ethical or acceptable way, since I have working experience, and I know the world is shaped mostly by economical activities, even Richard M. Stallman said, "free software can be commercial". I just mean that one should spend some of effort on something other than money, when the pressure of survive is not so harsh. I grew up at the Chinese net 10 years ago, close my eyes and I can recall what was like under the lack of public goods. The nightmare should never happen again. The previous generation contributed and left us public goods to enjoy. There are something should be done, to proudly pass today's computer world I loved to the next generation.
 
 // https://www.gnu.org/philosophy/free-sw.html#selling
+
 // [Scorpions - Living for Tomorrow - YouTube](https://www.youtube.com/watch?v=KVTfAnB4I_U)
+
+// I don't really want to quote Bill Gates here!
+
+// > We always overestimate the change that will occur in the next two years and underestimate the change that will occur in the next ten. Don't let yourself be lulled into inaction.
+
 
 

@@ -1,6 +1,41 @@
 Master of Science in Computer Science
 =====================================
 
+
+## 211104
+
+我的想法改变了，在看了 MSE Program Overview 的视频之后。
+
+我开始觉得 SS 和 ES 都可以了。
+
+- 一方面 professional 是给 mid-career 的申请者的，本身这个项目 workload is very high，我可能很难承受。
+  - 同时从 overlap with undergraduate course 来看， prof 是 0%，MSCS 是 70% 左右，SS 和 ES 是 22%。加上个人的知识和努力应该后两个能够承受。
+- 另一方面 SS 和 ES 也只是两个方向而已，尤其是 SS 的描述包含 data-intensive system，从我的过去经历上来看可能我会很感兴趣。
+  - SS 和 ES 之间我更倾向于 SS，因为 Embedding System 的事情我也做过，感觉不是那么好找工作，而且如果不够前沿的话也很琐碎，不够酷，知识专门化程度高，迁移困难。
+
+记录几点 MSE Program Overview 的要点：
+
+1. 培养目标：Software Leaders, go beyond the code。
+  - 所以会有 Business & Leadership Courses。
+    - 就这两天写 PS 下来我期望的职业方向，这或许会对我有所帮助？
+    - 原本是我把这些东西看轻了。
+  - 特别强调了 communication。开源社区就是建立在 communication model 上的。
+2. 期望的申请人/在 PS 中寻找的特质：
+  - interested in programming
+  - enough understanding of software engineering
+  - can recognize issues happen in software development(doubtful, not hear it clearly.)
+3. 问答环节，Professional 的小测验内容
+  - 三个问题。模拟真正编程环境下会遇到的问题。
+  - 会有一个 bug fixing，不像是职业面试那种算法题。
+  - 一般有一个 perfomance issue。
+4. 推荐信：Assume they have certain extent of ability.
+5. MISC:
+  - No research in MSE program.
+  - The workload is very high. Manage stress. Help from CMU.
+5. 一种讲求实际的气氛，毕业薪资、职位、工作地点放在 ppt 里面。
+
+## 10 月
+
 TL;DR: 可能不太适合我。
 1. 期望有扎实的计算机基础/等同的工程经历、才能
 2. 教学内容比较软性，我相对比较想学技术内容

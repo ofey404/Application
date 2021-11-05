@@ -70,6 +70,6 @@ May not possible to switch the degree variant.
 - Foundational variant: MSCS Elective classes
 - Applied variant
 
-我对 Foundational Variant 很感兴趣。它的具体要求是什么样？适合我吗？
+我对 Foundational Variant 很感兴趣。它的具体要求是什么样？适合我吗？  // 211105: 想 peach！不过想想又不要钱 XD
 
 MSCS Elective classes 是什么意思？

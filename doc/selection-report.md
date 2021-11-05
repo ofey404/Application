@@ -61,7 +61,30 @@ https://mse.isri.cmu.edu/applicants/mse-as/apply.html
 
 ### MSCS
 
-TODO
+https://csd.cmu.edu/academics/masters/overview
+
+**项目培养什么样的人？研究还是求职导向？学多久？**
+- Technical leader.
+  - Program overview：理论分析，大规模工程，现实问题，专业领域。
+- 研究和求职都有，看 variant。
+  - 求职：MSCS-3
+  - 研究：MSCS-AS，MSCS-4
+  - research is optional
+- 3 学期，研究型 4 学期，跨转同学可能需要额外一学期。
+
+**项目想招什么样的人？对跨专业的友好度如何？喜欢什么样背景/条件的人？**
+- Goals and Outcomes 2020: support career. Ability of developing viable solution within one or more subfields.
+- 跨专业友好度一般：不一定要 CS bachelor ，但是希望有 technical undergraduate background。
+  - 既然提了 additional semester，那么就是说还是有不少跨专业的同学。
+  - 但是也没有特别热情地接纳，我感觉像是『来可以，但你得有本事/带艺投师』。
+  - 考虑下该在 PS 中突出些什么了。我如何体现跨专业素质。
+- 偏好 mathematics and logical reasoning
+
+**MISC：DDL，材料种类，GRE，selectivity，有没有 workshop。**
+- DDL：Dec 9th.
+- 材料种类：https://www.cs.cmu.edu/academics/graduate-admissions
+- GT 看起来都要求（存疑）。
+- 2019 selectivity: 恐怖的 6%。
 
 ## UIUC, Computer Science, MCS and MS
 

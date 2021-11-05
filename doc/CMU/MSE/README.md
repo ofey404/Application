@@ -1,6 +1,70 @@
 Master of Science in Computer Science
 =====================================
 
+## 211105
+
+观看了 MSE application workshop 的视频。
+
+2020 平均托福、GRE 都很高。今年 optional 真是太好了。
+
+- 109 TOEFL
+  - Department recommendation: total 100+ and no less than 25 each.
+  - 不交也没关系，会整体上看你的材料决定。
+  - 那我就很尴尬了呀，105 + verbal 20……
+- 159 Verbal, 168 Quant
+
+候选人：CS or engineer-related discipline.
+
+----
+
+Statement of Purpose:
+
+![sop-1](statement-of-purpose-part-1.png)
+
+![sop-2](statement-of-purpose-part-2.png)
+
+1. Your connection to SE;
+2. Goals(long, short term), knowledge you are missing;
+  - Knowledge on specific program and CMU, aligns with your goal.
+  - 有一点在意的：knowledge you are missing - what you bring to the program.
+  - Focus on a few points, like curriculum, research.
+
+1 page, single space for each section.
+
+----
+
+Recommendation letter:
+
+- mentor is OK.
+
+----
+
+Video essay
+
+![video-essay](video-essay.png)
+
+3 optional topics, conflict, leadership or weakness.
+
+Have fun with it. A chance. Don't be too serious.
+
+----
+
+Programming Assignment
+
+- 40mins x 3.
+- No stress on speed.
+- How you solve task and face techinical challenges.
+
+TODO: If you are uncertain, google "mock interview" there will be trainings XD.
+
+----
+
+Q&A
+
+For non-CS applyer: Important to show you have foundation, on Data Structure or other related courses.
+
+Voulnteering experience related to CS is welcome. Can write it into CV.
+- 我刚好有。
 
 ## 211104
 

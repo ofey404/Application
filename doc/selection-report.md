@@ -9,22 +9,41 @@
 
 ### MSE
 
-TODO: 看一下 workshop 再做分析吧。https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dae491c2-8fff-4c90-b92c-adb800f1bc29
-
-- MSE-AS: for Professional，感觉比较适合我但是很难申到。
+- MSE-AS: for Professional，感觉申请过程中的小项目很酷，但是很难申到，而且可能不太适合我。
 - MSE-AP: for recent grads, 只有 scalable and embedding。
 
 https://mse.isri.cmu.edu/applicants/mse-as/apply.html
 
-- 这个页面里面没有列出我想要的 MSE for recent grads，第一次找错了：https://mse.isri.cmu.edu/applicants/index.html
+这个页面下方的两个视频很有用：https://mse.isri.cmu.edu/applicants/mse-ap/index.html
 
 **项目培养什么样的人？研究还是求职导向？学多久？**
 
-- 就业导向。
+- 培养Software Leaders, go beyond the code。
+  - 所以会有相当比重的 Business & Leadership Courses。
+  - 特别强调了 communication。
+- 就业导向。No research in MSE program.
+- 在校项目学习时间一年半，两学期授课，一学期 project 为主。
+  - The workload is very high. Ability to manage stress.
 
 **项目想招什么样的人？对跨专业的友好度如何？喜欢什么样背景/条件的人？**
 
+- 期望的申请人/在 PS 中寻找的特质：
+  - interested in programming
+  - enough understanding of software engineering
+  - can recognize issues happen in software development(doubtful, not hear it clearly.)
+- For non-CS applyer: Important to show you have foundation, on Data Structure or other related courses.
+- 背景和条件：CS or engineer-related discipline.
+  - engineering
+
 **MISC：DDL，材料种类，GPA，GRE，selectivity，有没有 workshop。**
+
+- DDL：Dec 9th.
+- 材料有两个额外的东西：video essay，和 assignment。
+- GRE 不要求。
+- TOEFL：
+  - Department recommendation: total 100+ and no less than 25 each.
+  - 不交也没关系，会整体上看你的材料决定。
+- workshop 已经看过了。
 
 ### MSCS
 

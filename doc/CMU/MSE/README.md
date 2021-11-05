@@ -26,8 +26,8 @@ Statement of Purpose:
 1. Your connection to SE;
 2. Goals(long, short term), knowledge you are missing;
   - Knowledge on specific program and CMU, aligns with your goal.
+    - Focus on a few points, like curriculum, research.
   - 有一点在意的：knowledge you are missing - what you bring to the program.
-  - Focus on a few points, like curriculum, research.
 
 1 page, single space for each section.
 

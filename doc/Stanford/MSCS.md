@@ -1,6 +1,8 @@
 Stanford MSCS
 =============
 
+## 10 月
+
 [Webpage for application](https://cs.stanford.edu/admissions/masters/general-information)
 
 DDL: December 7, 2021, 11:59 pm (PST)

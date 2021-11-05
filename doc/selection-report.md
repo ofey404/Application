@@ -1,6 +1,20 @@
 简明选校报告
 =========
 
+清单，截至 211105 。
+
+| School   | Program                                                     | DDL    | RL                  | PS                  | TOEFL                       | GRE                         |
+| -------- | ----------------------------------------------------------- | ------ | ------------------- | ------------------- | --------------------------- | --------------------------- |
+| CMU      | MSE-SS                                                      | 211209 | 3                   | 2 part, 1 page each | Recommended                 | Optional                    |
+|          | MSCS                                                        | 211209 | 3                   | ?                   | ?                           | Optional                    |
+| UIUC     | MCS                                                         | 211215 | optional            | 1 or 2 pages        | Required                    | Recommended/Not through ETS |
+|          | MS                                                          | 211215 | 3 academic          | 1 or 2 pages        | Required                    | Recommended/Not through ETS |
+| UCLA     | MSCS                                                        | 211215 | ?                   | 500 words           | Required                    | Not required                |
+| Stanford | MSCS                                                        | 211207 | 3, 2 academic       | 2 pages             | Required                    | Not required                |
+| Berkeley | M.Eng.(Prospective: Visual Computing and Computer Graphics) | 220106 | 看 11/8 的 workshop | ?                   | No min requirement(Avg>100) | Not required                |
+
+
+
 1. 项目培养什么样的人？研究还是求职导向？学多久？
 2. 项目想招什么样的人？对跨专业的友好度如何？喜欢什么样背景/条件的人？
 3. MISC：DDL，材料种类，GRE，selectivity，有没有 workshop。

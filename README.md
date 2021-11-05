@@ -11,9 +11,9 @@
 ```bash
 .
 ├── ...
-├── doc/          # Documentations and notes for school choosing. 文件和笔记。
-├── handout/      # Handout material, like PS and CV. 需要提交的材料。
-├── xxx.md        # MISC files.
+├── doc/          # 文件和笔记。Documentations and notes for school choosing.
+├── handout/      # 需要提交的材料。Handout material, like PS and CV.
+├── misc/         # 杂项。MISC.
 ├── ...
 └── README.md     # This file.
 ```

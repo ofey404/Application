@@ -1,4 +1,10 @@
 World of a Programmer in the Wild
 =================================
 
-"In the temple of science are many mansions, and various indeed are they that dwell therein and the motives that have led them thithe." Einstein said in 1918. So as the world of computer programming. As an interest-driven, self-taught programmer, I
+"In the temple of science are many mansions, and various indeed are they that dwell therein and the motives that have led them thithe." what Einsten mentioned is Physics in 1918, and this can be applied to the era so called "computer science" today. I am an interest-driven, self-taught programmer, or "Wild Programmer", for I do not have a bachelor degree of programming-related area. My first exposure to programming was installation of linux, according to a wiki page of Physics Experiment Center of Fudan University. I never thought I would become a programmer before 18, because the Chinese part of the Internet 10 years ago, in which I grew up, is not friendly to geeks at all. If you searched anything about tech, there are little well-written guides, and official documentations would be behind three or more pages, often blocked by the Great Firewall. But pages about linux is different, even in Chinese net, they seems to be written by friendly engineers. Asked for help and I got the help, Searched for answer and I got the answer. Describe the problem, search, do experiments then analyse the outcome, as a freshman in physics, I found this loop very comfortable. Finally I successfully installed dual-boot ubuntu 17.04 on my machine, and even figured out how to bypass the Great Firewall with some free and open source software. I was totally fascinated, love at first sight, then I know that computer world is not just a exausting swamp, but a land which have good engineering products, friendly communities, and something can be crafted by one's own hands. In the next few years, I become an enthusiast, worked in a hardware lab, a computational physics lab, had an internship in an open source company, then worked in a software lab until now. Now what I want is a master degree of software engineering, to make me a more productive programmer and a capable free/open source contributor, especially in the area of low level system programming.
+
+
+
+
+
+

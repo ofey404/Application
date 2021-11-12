@@ -9,7 +9,32 @@ Coding is more like writing an essay or painting rather than building a wall, fo
 
 I was a wild programmer who had a hometown, a motherland which gave me first passion. It's free and open-source software. I want to be a contributor, especially in the area of low-level programming. My first exposure to programming was installing Linux, according to a wiki page of the Physics Experiment Center of Fudan University. I never thought I would become a programmer before, but I was excited when I was in the loop of describing the problem, searching, doing experiments, and analyzing the outcome. I was fascinated; it was love at first sight. For me, the computer world is not just an exhausting swamp but a land with good engineering products, friendly communities, and meaningful things that one's own hands can craft. The Great Firewall always blocks the official documentation and repositories, so I bypassed it with free and open-source software. This experience gave me much confidence, and my standard ID `ofey404` is in memory of this (and Richard Feynman). I have become a computer head since then.
 
+// qualificaiton（我做过的事情，比如困难的计算机课，等特别困难的事情。）做过实验、上过课，找过这个方向的实验室。linux 0.12 —— 10000。比我工作已经少了。2 年以前： xv6 —— 6000 行，很难理解，没有完全理解。现在已经感觉不是很难了。除了 OS 入门，还有编程能力——常识，能理解比较大的代码库。
+
+// 这个东西很重要。我做这个很开心。更多主观的内容。既然如此，我要干嘛？contribute what to open source。非技术工作开始——文档翻译，是我现在在做的事情，翻译。未来，学完这个 master。
+
+如果不考虑其他情况，我第一选择的事情
+
+- 进入和开源有关的公司/组织
+- 做相对能够对复杂系统有整体把握的工作，不限于操作系统，数据库、网络也是很复杂的系统。
+- 如果说是开源项目的话，比较可能的是负责一个模块。也是能够有一定的整体观的一个工作吧。
+
+整体观。
+
+我想做的事情：是对复杂系统的整体把握。具体来讲是上面的几个可能可以做的事情。
+
+已经做过的事情，挑战的事情——我有意愿和能力做某事。
+
+- 大三的 OS，DS 课程
+- 数据库公司的实习经历——挑战
+- 计算机实验室
+
+// craftsmanship：从学徒到大师
+
 "(TODO: Find the origin quote.)The products of technology are not ugly...the true ugliness lies in the relationship between the people who invent the technology and the products they make." like the quote from *Zen and the Art of Motorcycle Maintenance*, when the role of user and contributor are not separated, there would be healthier relationships which can produce public goods. I use Linux every day, so as various command-line tools, package managers, and so on. They make me happy, and memories about them are also delightful. That's the first reason that I want to contribute to free and open-source software. Last year I was really fascinated by a command line cheat sheet tool, and when I missed a functionality, [I added it](https://github.com/knqyf263/pet/pull/161) by myself in a night. Hacking is happy; when being helped by reading others' code, the happiness doubled. Besides, almost every programmer is benefited by some public goods, and I want to do something to generate them. Heard the news that OpenSSL is maintained by only one full-time contributor, I was shocked. It is like everyone benefits from the world tree, but only one gardener takes care of the root. I don't suppose volunteering is the only ethical or acceptable way since I have working experience, and I know the world is mainly shaped by economic activities. Free software [emphasizes social solidarity—that is, sharing and cooperation](https://www.gnu.org/philosophy/open-source-misses-the-point.html), and open-source find a way to thrive along with the financial world. Those two groups of people, though their ideas vary, they all love programming and hacking, and they are producing public goods that we enjoy. Public goods never come from nothing. The previous generation contributed and left them to us. I feel obliged to do something to pass this computer world I loved to the next generation. After all, the open-source collaboration model is well-tested for large scale software engineering, and the computer industry today is just like Painting in the Renaissance or Physics in the early 20th century, it has a large capacity, it's broad-minded enough to accept various, ambitious people, let them do meaningful things. If I can get a job about free/open-source project, it's wonderful, and if I cannot do so, I could find a "daytime job" that would give me time and space to contribute to some public goods. And low-level tools, like network protocol or operating systems, have unique impacts compared with applications. Application seldom makes the computer more respect or despise its users, but low-level tools did. Low-level tools shape the computer world, and applications shape the rest.
 
 // TODO: Why I want to take your program: deliver, community, and best transdisciplinary experiences
 
+// 一些问题？我到底要干什么？不够具体（具体你要做什么，怎么实现
+
+// 没有掌握到夸自己的技巧。介绍自己的 qualification。目前在暗示要做什么，但是没有明白地说出来。

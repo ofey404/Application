@@ -41,3 +41,6 @@ In my journey of programming, I constantly take challenges that push me to the l
 
 // 没有掌握到夸自己的技巧。介绍自己的 qualification。目前在暗示要做什么，但是没有明白地说出来。
 
+I want to lead significant software projects, have a holistic view of the computer system. I want to do low-level works that can touch the heart of the computer, not limited to operating systems but networks or databases. My work at CS lab is working on a high-performance database, and I want to get my hands dirtier during my master's education. Besides, if I had any choice, I would like to work in an open-source company, since there are many in the area of the system software, or do an open-source related job. I want to follow the step of professionalism, be a reliable journeyman, then master. That's parallel to what I can do to free/open-source. I can contribute to non-technical works like translation and some issues that suit my knowledge level. Recently I joined GNU's Chinese translation mailing list and began to submit reviews. There is no wall around free/open-source projects, and I can learn the knowledge and engage in right now if I want to be a Linux contributor. I know the CMU database group has an open-source research program called Noisepage, which could be a good thing to start on.
+
+

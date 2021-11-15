@@ -155,9 +155,55 @@ TODO: 网页上真的很难找……怀疑他们想不想招人。
 
 TODO
 
-## Berkeley
+## Berkeley MEng
 
-TODO
+**项目培养什么样的人？研究还是求职导向？学多久？**
+
+- Mission: Inclusive leaders who solve the world's problems through innovation, technology, and collaboration across boundaries.
+  - 强调 communication skill, working ethic 之类的 soft skill，看起来好像是面向就业的项目大势所趋？
+- 面向工业界，但是可以做不同的 capstone project: research, commercialize some research, or make a product.
+- Accelerated program. 非常快。九个月。Capstone project 贯穿始终。
+  - 详细的模块有截图放 doc/。
+
+**项目想招什么样的人？对跨专业的友好度如何？喜欢什么样背景/条件的人？**
+
+- 跨专业友好度尚可。Show requisite knowledge and skills.
+- 不同的 concentration 有不同的要求
+- TODO：进一步了解我初步觉得感兴趣的两个 concentration
+  - Data Science and Systems: https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/requirements/dss
+  - Visual Computing and Computer Graphics: https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/requirements/vccg
+
+**MISC：DDL，材料种类，GRE，selectivity，有没有 workshop。**
+- DDL: 220106 挺晚的。
+- Standardization:
+  - GRE (Not Required): No min requirement. Avg admittee: >90% in Quantitative, >70% Verbal, >3.5 score Analytical
+  - TOEFL:  No min requirement. Avg admittee: >100 score; iBT: 90 minimum (or 7 out of 9 on the IELTS)
+  - GPA: 3.0 min requirement. Avg admittee: 3.7
+- Average admissions rate for M.Eng program: 12%
+- Soft:
+  - Strong technical background equivalent to a computer science bachelor’s degree.
+  - Experience in programming, algorithms, data structures, and theory at or above the undergraduate level.
+- [Information Session for Berkeley MEng Class of 2022 Admits](https://www.youtube.com/watch?v=0Biqfl1Dzw4)
+
+Statement 类材料：
+
+**Statement of Purpose**
+
+Please describe your aptitude and motivation for graduate study in your area of specialization, including your preparation for this field of study, your academic plans or research interests, and your future career goals. Please be specific about why UC Berkeley would be a good intellectual fit for you.
+
+**Personal History Statement**
+
+Please describe how your personal background and experiences influenced your decision to pursue a graduate degree. In this section, you may also include any relevant information on the following:
+
+(Please note that the Personal History Statement should not duplicate the Statement of Purpose)
+
+- How you have overcome barriers to access higher education
+- How you have come to understand the barriers faced by others
+- Your academic service to advance equitable access to higher education for women, racial minorities and individuals from other groups that have been historically underrepresented in higher education
+- Your research focusing on under served populations or related issues of inequality
+- Your leadership among such groups
+
+**FIXME: 看到提交各种 GPA，就感到很感伤……算了，又不是没处可去，念硕士只是人生的一个可选 DLC。**
 
 ## Placeholder
 

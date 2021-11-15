@@ -38,7 +38,9 @@ TODO: 我想要用它们做什么？选什么？
 
 ![modules](engineering-leadership.png)
 
-TODO: 另外申请人似乎可以在官网上向特定的学生提问？这真的是我免费可以得到的东西么？？这是真的么？？我要去找一下。
+另外申请人似乎可以在官网上向特定的学生提问？这真的是我免费可以得到的东西么？？这是真的么？？我要去找一下。
+
+- 是真的。Advisor: https://eecs.berkeley.edu/resources/grads/meng#masters-contact
 
 讲了很大篇幅的 network，support from school。单听这个就可以反思一下我的行事方式了（不
 

@@ -11,7 +11,9 @@ Funginstitute website mentioned in the info session: https://funginstitute.berke
 
 DDL: 220106
 
-workshop 总体印象：
+### workshop
+
+总体印象：
 - communication skill 和 working ethic 是被学生反复提到的两个词。
   - 我对 working ethic 也有自己的想法，可以进一步了解。
 - 对于 capstone project 的说明：
@@ -39,3 +41,31 @@ TODO: 我想要用它们做什么？选什么？
 TODO: 另外申请人似乎可以在官网上向特定的学生提问？这真的是我免费可以得到的东西么？？这是真的么？？我要去找一下。
 
 讲了很大篇幅的 network，support from school。单听这个就可以反思一下我的行事方式了（不
+
+### Website
+
+https://eecs.berkeley.edu/academics/graduate/industry-programs/meng
+
+我可能感兴趣的 concentration：
+
+Data Science and Systems: https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/requirements/dss
+
+Visual Computing and Computer Graphics: https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/requirements/vccg
+
+Capstone Projects: (不完全)
+- Vision Correcting Display (advisor Prof. Brian Barsky)，在以上两个 concentration 中都有。
+- 我的 Version control for visual artists 可以放在 Visual Computing and Computer Graphics。
+
+
+### FAQ
+
+https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/faq
+
+> Our Masters Student Services Advisor (see Contacts) will be happy to field any of your admissions questions.
+
+Advisor: https://eecs.berkeley.edu/resources/grads/meng#masters-contact
+
+For "Career changers" like me: Show requisite knowledge and skills.
+
+> We have numerous applicants who are "career changers" and our best advice for you is to show within your application that you have the requisite knowledge and skills to succeed in this challenging program. This can include coursework, projects, industry experience, publications, letters of recommendation, and more. Succeeding in courses at UC Berkeley Extension (or another institution) could be a useful addition to your application.
+

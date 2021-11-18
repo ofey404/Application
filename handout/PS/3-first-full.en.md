@@ -19,6 +19,25 @@ The Personal History Statement (PHS) is the place for you to discuss your academ
 
 There is no minimum or maximum length requirement for either essay. Though many applicants aim for each essay to be between 500-1000 words or 1-2 pages. It's okay if there is a little overlap of information between the SOP and PHS.
 
+----
+
+关于 SOP 和 PHS 另有两段描述，在选校报告中有摘录，复录如下：
+
+**Statement of Purpose**
+
+Please describe your aptitude and motivation for graduate study in your area of specialization, including your preparation for this field of study, your academic plans or research interests, and your future career goals. Please be specific about why UC Berkeley would be a good intellectual fit for you.
+
+**Personal History Statement**
+
+Please describe how your personal background and experiences influenced your decision to pursue a graduate degree. In this section, you may also include any relevant information on the following:
+
+(Please note that the Personal History Statement should not duplicate the Statement of Purpose)
+
+- How you have overcome barriers to access higher education
+- How you have come to understand the barriers faced by others
+- Your academic service to advance equitable access to higher education for women, racial minorities and individuals from other groups that have been historically underrepresented in higher education
+- Your research focusing on under served populations or related issues of inequality
+- Your leadership among such groups
 ## Main
 
 - SOP
@@ -68,7 +87,16 @@ Wordcount: 884 2021-11-17-19:45:18
 
 I was an interest-driven programmer who want to build up my craftsmanship. Craftsmanship is the mindset held by professionals, including techniques, values and working ethics. I want to study in Berkeley MEng because I want to go beyond clever code, get the most out of your leadership modules and capstone project, to fulfill my dream of an free/open-source software leader. And on campus is important, because I want to build relations in and out classroom, working together with the brightest and observe them. Craftsmanship is a meme, we catch it by observing others and allowing the meme to take hold, said the book *The Clean Coder*.
 
-"More is different." that's the very thing I understand after I switch from the discipline of natural science to engineering. In math and science, a problem may be too intrinsic or require too much intelligence to push forward, but in engineering, when size is growing, code management and teamwork matters. I hope your Teaming and Project Management module could help me to handle those issues. Currently, I am working on a 30000 line codebase with a doctoral student. 30K lines written by a previous developer, one collaborator to work with, it's not a big amount, but I experienced much friction in development because of too much legacy code. And teamwork with github helps us to make it through (TODO: More details). Linux kernel and other massive open-source projects have millions of code lines, and when many people collaborate, the collaboration itself becomes a complex system to manage. Computer and software are the most complicated creations humankind ever made, just like some invisible cities. Luckily, to find my way, it's no need to know every room, every decoration on every wall, knowledge of maps and signs is enough to begin. I want to be better at managing the complexity inherent in code and human activities, that's important for me to be a real craftsman(professional.)
+"More is different." that's the very thing I understand after I switch from the discipline of natural science to engineering. In math and science, a problem may be too intrinsic or require too much intelligence to push forward, but in engineering, when size is growing, code management and teamwork matters. I hope your Teaming and Project Management module could help me to handle those issues. Currently, I am working on a 30000 line codebase with a doctoral student. 30K lines written by a previous developer, one collaborator to work with, it's not a big amount, but I experienced much friction in development because of too much legacy code. I applied what I learnt during my internship of open-source company, use git and github to track history, do experiment and review code. Finally we make it through the hardest time.
+
+// 上下这两段是很好的材料，需要再考量一下如何表述。目前的状态我觉得太官方了，不通顺，不能传达出爱和热情。
+
+// 参照 SOP 描述中 Please describe your aptitude and motivation for graduate study in your area of specialization, including your preparation for this field of study, your academic plans or research interests, and your future career goals.
+
+In chasing my dream of free/open source leader, the challange would be greater. Linux kernel and other massive open-source projects have millions of code lines, and when many people collaborate, the collaboration itself becomes a complex system to manage. They just like some invisible cities. Luckily, to find my way, it's no need to know every room, every decoration on every wall, knowledge of maps and signs is enough to begin. 
+
+
+I want to be better at managing the complexity inherent in code and human activities, that's important for me to be a real craftsman(professional.)
 
 // TODO: Under construction below
 

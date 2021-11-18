@@ -1,6 +1,9 @@
 copyrighted-material/*
 !.gitkeep
 
+# For some reasons
+handout/PS/*.docx
+
 *.aux
 *.fdb_latexmk
 *.fls

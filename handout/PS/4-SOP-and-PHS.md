@@ -15,6 +15,11 @@ Digital illustration could have been distributed like open-source code, but now 
 
 A open-source version control system would change the way we enjoy and create digital illustrations. It would be easier for enthusiasts to learn skills, if they can study exactly how professional artists work, how certain effects is created and how a desin is refined, through commit histories. With VCS, remote artists can work together more smoothly through the Internet. In the time of Michelangelo, it was common for artists to work on the same mural, and modern mangaists and their apprentices do so. With proper licences to protect the creator, a accessible version control tool can reshape online artist communities, especially fan-art communities. VCS provide the possibility of asynchronous and fine-grained collaboration, which means it would be easier for people to contribute storyboards, figures, backgrounds or other improvements. This idea first hit me when I heard the early death of Miura Kentaro, a famous manga artist. If there were such a VCS, so many great posthumous works could have a second life, and more high-quality fan-fiction could be made. Besides, an open-source VCS would be as accessible as possible, and would not be constrained by one file format or one painting software.
 
+There are many things I can do right now, and I have taken several steps. I can learn how version control was implemented by reading materials about git internal, and learn how painting software's project file was arranged. I can get much information from an open-source painting software called Krita, and I'm learning to use it. I can talk to my artist friends and collect their ideas. I draw in my spare time. And the honourable MEng project in Stanford can give me more.
+
+Two of your areas of concentrations attacts me: *Visual Computing and Computer Graphics*, and *Data Science and Systems*. Build a (probably distributed) version control system for digital illustration needs the knowledge from both of them. *CS 260A. User Interface Design and Development* would help me on building the interface of the tool, and *CS 284A. Foundations of Computer Graphics* can build up a solid understanding of computer graphics for me.
+
+
 
 
 

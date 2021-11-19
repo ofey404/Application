@@ -9,6 +9,12 @@ Statement Of Purpose 围绕我想要做的项目：A version control system for 
 
 ## Statement Of Purpose
 
+I am excited to hear that students can propose capstone projects in 2021, and I bring my dream project: A open-source version control system for digital illustrations. As an indie hacker and a fan of manga, I believe that we can unleash the potential in digital illustration art creation if the right tool is there. And now is the right time to build it.
+
+Digital illustration could have been distributed like open-source code, but now they just like printed papers. Even in illustration sharing site like *pixiv*, artworks are shared in the format of the final output figure file. In the area of free/open-source community, code can be studied, inspected and reused, and these workflows built around version control form the basis of the planet's largest collaboration. Digital illustration could have those merits. Creative common licenses and illustration sharing sites have cleared the way for illustrators to learn from each other's work, and now it's the time to push the collaboration forward further.
+
+
+
 
 
 

@@ -19,7 +19,6 @@ There are many things I can do right now, and I have taken several steps. I can 
 
 Two of your areas of concentrations attacts me: *Visual Computing and Computer Graphics*, and *Data Science and Systems*. Build a (probably distributed) version control system for digital illustration needs the knowledge from both of them. *CS 260A. User Interface Design and Development* would help me on building the interface of the tool, and *CS 284A. Foundations of Computer Graphics* can build up a solid understanding of computer graphics for me.
 
-
-
+Development of an open-source VCS of illustrations is beyond clever code, and I find what I need in your Engineering Leadership Modules. Running an open-source project means communicate with users, work together with strangers and form a reliable team with them. I only have experiences of working alone or in small teams, your *Teaming & Project Management* and *Communications* module could get me on track more quickly. Besides, open-source projects actually requires more knowledge about marketing, because it's rely on its users. To make an popular open-source project, or just to get some users, I must know my users' need, know what a good product means, and how to publicize my project, so I need your *Marketing & Product Development* module. And in order to design my VCS, I should know what can be done with cutting-edge technology, and what's the best practice. I think your *Industry Analysis* module could help me.
 
 

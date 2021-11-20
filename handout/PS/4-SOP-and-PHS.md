@@ -7,8 +7,9 @@ Statement Of Purpose and Personal History Statement
 
 Statement Of Purpose 围绕我想要做的项目：A version control system for visual artists 展开。它能带来什么影响，为什么是可行的，我将会怎么做，学校能给我什么帮助，以及项目结束之后我打算去干什么。暂时先悬搁『做不做得到』这个判断，应该是读者来给出自己的看法，而我作为论说文的写作者要努力证明它是有意义的，可行的。
 
-## Statement Of Purpose
+Personal History Statement 讲述我的来龙去脉，阐明它们和我要做的事情的关系。联系可以是我的想法是怎么产生的，我对项目、项目涉及到的概念的理解和经验，我过往经历中展示的能力，我为什么可以做到我想做的事情。
 
+## Statement Of Purpose
 
 I am excited to hear that students can propose capstone projects in 2021, and I bring my dream project: A open-source version control system for digital illustrations. As an indie hacker and a fan of manga, I believe we can unleash the potential in digital illustration art creation if the right tool is there. And now is the right time to build it.
 
@@ -27,3 +28,8 @@ Developing an open-source VCS of illustrations is beyond clever code, and I find
 In my future career, I want to lead significant software projects (free/open-source is better), and do low-level works that can touch the heart of computer. Berkeley have a glorious history in free/open-source, for its BSD operating system and license.
 
 // TODO: Future career 还有什么样的话题可以写呢？
+
+## Personal History Statement
+
+
+

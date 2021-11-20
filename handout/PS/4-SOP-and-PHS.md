@@ -21,3 +21,9 @@ There are many things I can do right now, and I have taken several steps. I can 
 Two of your areas of concentration attract me: *Visual Computing and Computer Graphics*and *Data Science and Systems*. Building a (probably distributed) version control system for digital illustration needs knowledge from both of them. *CS 260A. User Interface Design and Development* would help me build the interface of the tool, and *CS 284A. Foundations of Computer Graphics* can build up a solid understanding of computer graphics for me.
 
 Developing an open-source VCS of illustrations is beyond clever code, and I find what I need in your Engineering Leadership Modules. Running an open-source project means communicating with users, collaborating with strangers, and forming a reliable team. I only have experience working alone or in small groups. Your *Teaming & Project Management* and *Communications* module could get me on track more quickly. Besides, open-source projects require more knowledge about marketing because it relies on users. To make a popular open-source project, or just to get some users, I must know my users' needs, understand what a good product means, and how to publicize my project, so I need your *Marketing & Product Development* module. And to design my VCS, I should know what can be done with cutting-edge technology and the best practice. I think your *Industry Analysis* module could help me.
+
+// 上一段需要扩写。这里也是展现 More is different 这种对于工程的理解（）的时候。
+
+In my future career, I want to lead significant software projects (free/open-source is better), and do low-level works that can touch the heart of computer. Berkeley have a glorious history in free/open-source, for its BSD operating system and license.
+
+// TODO: Future career 还有什么样的话题可以写呢？

@@ -31,12 +31,22 @@ In my future career, I want to lead significant software projects (free/open-sou
 
 ## Personal History Statement
 
-I was an interest-driven programmer, a free/open-source lover and a fan of manga. Started with the installation of Linux, programming generally shifted from a hobby to my career. I cherish today's digital world supported by free/open-source software, so I want to engage more in the development. And the productivity behind free/open-source software is the social collaboration model, and I want to introduce this power to non-CS areas, especially the illustrator's community.
+I was an interest-driven programmer, a free/open-source lover and a fan of manga. Started from Linux, programming generally shifted from a hobby to my career in four years. I cherish today's digital world supported by free/open-source software, so I want to engage more in the development. And the productivity behind free/open-source software is the social collaboration model, and I want to introduce this power to non-CS areas, especially the illustrator's community.
+
+I never thought I would become a programmer until I met Linux at 18, in a wiki page of the Physics Experiment Center of Fudan University, and this makes me rethink my ideas about technology and people. As a physics freshman, I didn't have much knowledge on computers then, but through the loop of search, experiment and analyze, I finally made it work on my laptop. I was totally fascinated, not only because I feel confident and strong, but also because I realized there were so many friendly strangers in the world of computer. In the next few years, I worked for three labs and an open-source company, exploring my maximum possiblities. The more I programed, the more I believed that the heart of software engineering is beyond clever code - it's a story of managing concepts, communication, and social collaboration.
+
 
 ----
 Raw materials
 ----
 
+Why you want to be a programmer? And what effort you put in?
+
+Why you are interested in free/open-source?
+
+Why you want to build a VCS for artists?
+
+----
 
 I care about productivity.
 - craftsmanship

@@ -3,6 +3,7 @@ copyrighted-material/*
 
 # For some reasons
 handout/PS/*.docx
+handout/PS/*.docx#
 
 *.aux
 *.fdb_latexmk

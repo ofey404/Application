@@ -31,16 +31,38 @@ In my future career, I want to lead significant software projects (free/open-sou
 
 ## Personal History Statement
 
-I was an interest-driven programmer, a free/open-source supporter and a manga lover. Started with the installation of Linux, I stepped into the land of programming four years ago. As programming generally shifted from my hobby to career, I enjoyed common goods created from free/open-source community, and my willing to participant grew. The real power behind free/open-source software is the social collaboration model, and I want to introduce this power to the illustrator's community 
+I was an interest-driven programmer, a free/open-source lover and a fan of manga. Started with the installation of Linux, programming generally shifted from a hobby to my career. I cherish today's digital world supported by free/open-source software, so I want to engage more in the development. And the productivity behind free/open-source software is the social collaboration model, and I want to introduce this power to non-CS areas, especially the illustrator's community.
 
 ----
 Raw materials
 ----
 
+
+I care about productivity.
+- craftsmanship
+  - coding is a creative task, more like painting/design rather than build a wall.
+  - Use VCS at work
+- introduce VCS to non-CS lab
+  - tool for social collaboration can boost productivity in non-CS working place.
+
+I care relationship between technology and people.
+- free/open-source -> users are developers
+- social collaboration create common goods.
+  - free and open-source shared the love of hacking.
+  - pass the computer world today to tomorrow.
+- get the idea of VCS for artists. Beyond the area of programming
+
+I challange myself, overcome the difficulties to take programming as a career.
+
+Help by others.
+
+- help from classmates, TAs
+- help others
+  - volunteering
+  - engage in open source (cli utility)
+
 I worked in three labs: embedded system, computational physics then software, and had an internship in an open-source company.
 
 I'm finding chance to .., or introduce the power of social collaboration to other area.
-
-The real power lies behind free/open-source software is the collaboration model, and it's power is beyond the area of programming.
 
 that's the very thing I understand in my track of programming.

@@ -31,5 +31,16 @@ In my future career, I want to lead significant software projects (free/open-sou
 
 ## Personal History Statement
 
+I was an interest-driven programmer, a free/open-source supporter and a manga lover. Started with the installation of Linux, I stepped into the land of programming four years ago. As programming generally shifted from my hobby to career, I enjoyed common goods created from free/open-source community, and my willing to participant grew. The real power behind free/open-source software is the social collaboration model, and I want to introduce this power to the illustrator's community 
 
+----
+Raw materials
+----
 
+I worked in three labs: embedded system, computational physics then software, and had an internship in an open-source company.
+
+I'm finding chance to .., or introduce the power of social collaboration to other area.
+
+The real power lies behind free/open-source software is the collaboration model, and it's power is beyond the area of programming.
+
+that's the very thing I understand in my track of programming.

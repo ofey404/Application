@@ -35,16 +35,33 @@ I was an interest-driven programmer, a free/open-source lover and a fan of manga
 
 I never thought I would become a programmer until I met Linux at 18, in a wiki page of the Physics Experiment Center of Fudan University, and this makes me rethink my ideas about technology and people. As a physics freshman, I didn't have much knowledge on computers then, but through the loop of search, experiment and analyze, I finally made it work on my laptop. I was totally fascinated, not only because I feel confident and strong, but also because I realized there were so many friendly strangers in the world of computer. In the next few years, I worked for three labs and an open-source company, exploring my maximum possiblities. The more I programed, the more I believed that the heart of software engineering is beyond clever code - it's a story of managing concepts, communication, and social collaboration.
 
+Meaningful engineering product is often beyond one person's time and knowledge can handle, so I was always finding better ways to pass knowledge from one to another and work together. I recorded experiment videos in SOC lab as a TA three years ago, so newcomers can watch them even I left. I picked up the habit of organizing my work in a github repository during my internship in PingCAP Inc., and it turned out to be a bonus in my recent research with a doctoral student. Sticking to my discipline, I use issues and pull requests to collaborate with my partner, record reasons for technical decisions, and do code reviews to remove unnecessary parts. When another graduated student came to this small team, I found that there were always web pages to which I can refer when he had doubts. Many of them even contained details I forgot.
+
+"More is different." that's the very thing I understand after I switch from the discipline of natural science to engineering. The collaboration can be a problem, when I was working on a 30Klines codebase(based on github.com/efficient/mica2) with two graduate students. And the massive free/open-source projects, like Linux kernel, they just like some invisible cities. To find our ways, it's no need to know every room, every docoration on every wall. We follow the signs and maps. It's the collaboration model and tools that made today's incredible huge free/open-source projects possible.
+
+*The collaboration model, built around version control systems, might benefit other creative works if applied right, because coding is about managing cascading concepts and explain them in a right way. Coding a creative task like painting or writing an essay, and that's a well-tested model to let creators working together.*(TODO: Refactor this) Two years ago, I tried to introduce version control to the computational physics lab in which I worked. I set up a Gitlab instance on their server, gave lectures about git-based workflow and wrote documentation in case I left. Some of my colleagues used it to manage code, others store slides and notes on it. Even after I left, the Gitlab instance is still in active use. Last month they invited me to give a lecture about git to their newcomers. I was glad to see it works as a productivity tool in a non-CS workplace. 
+
+// 上下两段可以合在一起并且减少字数？
+
+I was a manga fan, and I am keep thinking if more collaboration can change the game, especially the fan-fiction community. A few years ago, the best animators in Japan came together and produced the incredible *One Punch Man Season 1*. But manga artists often work alone or with a few apprentices. And especially fan-fiction artists, that's why fan fictions are often short and lack of consistency, even they are emerged from a rather big community base. What if we put a acceccible and suitable tool into their hands? Besides, it would also make learning to draw easier. After I came up with the idea, I took a drawing lesson. By watching my classmates, I learnt a large number of techniques. So if we have a VCS, the working detail of those who willing to share would be accessible to more people.
+
+how open-source influence me. Produce public goods. (cli utilities)
+
 
 ----
 Raw materials
 ----
+In the journey of programming, I constantly take challenges that push me to the limit. (缩写2的中间段，但是有必要重新考虑一下中心主题。challange 可以么？)
 
-Why you want to be a programmer? And what effort you put in?
+----
+
+Why you want to be a programmer?
 
 Why you are interested in free/open-source?
 
 Why you want to build a VCS for artists?
+
+Why you think you can make it?
 
 ----
 

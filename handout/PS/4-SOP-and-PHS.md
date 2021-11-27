@@ -21,9 +21,16 @@ What's more, VCS means more than yet another productivity tool; it can lay the f
 
 // UNDER refactoring
 
+// 我已经做过什么，有什么理解，我还可以自己做些什么
+- 已经做过
+  - 
+
+// 我可以从学校里学到什么
+
 There are many things I can do right now, and I have taken several steps. I can learn how version control was implemented by reading materials about git internals and how the painting software's project file was arranged. I can get much information from an open-source painting software called Krita, and I'm learning to use it. I can talk to my artist friends and collect their ideas. I draw in my spare time. And the honorable MEng project at Stanford can give me more.
 
 Two of your areas of concentration attract me: *Visual Computing and Computer Graphics*and *Data Science and Systems*. Building a (probably distributed) version control system for digital illustration needs knowledge from both of them. *CS 260A. User Interface Design and Development* would help me build the interface of the tool, and *CS 284A. Foundations of Computer Graphics* can build up a solid understanding of computer graphics for me.
+
 Developing an open-source VCS of illustrations is beyond clever code, and I find what I need in your Engineering Leadership Modules. Running an open-source project means communicating with users, collaborating with strangers, and forming a reliable team. I only have experience working alone or in small groups. Your *Teaming & Project Management* and *Communications* module could get me on track more quickly. Besides, open-source projects require more knowledge about marketing because it relies on users. To make a popular open-source project, or just to get some users, I must know my users' needs, understand what a good product means, and how to publicize my project, so I need your *Marketing & Product Development* module. And to design my VCS, I should know what can be done with cutting-edge technology and the best practice. I think your *Industry Analysis* module could help me.
 
 

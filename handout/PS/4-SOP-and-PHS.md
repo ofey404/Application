@@ -33,6 +33,7 @@ Two of your areas of concentration attract me: *Visual Computing and Computer Gr
 
 Developing an open-source VCS of illustrations is beyond clever code, and I find what I need in your Engineering Leadership Modules. Running an open-source project means communicating with users, collaborating with strangers, and forming a reliable team. I only have experience working alone or in small groups. Your *Teaming & Project Management* and *Communications* module could get me on track more quickly. Besides, open-source projects require more knowledge about marketing because it relies on users. To make a popular open-source project, or just to get some users, I must know my users' needs, understand what a good product means, and how to publicize my project, so I need your *Marketing & Product Development* module. And to design my VCS, I should know what can be done with cutting-edge technology and the best practice. I think your *Industry Analysis* module could help me.
 
+If you want to stay relevant, you are going to have to dive into the domain of the business you are in.(Passionate: coding don't cut it anymore.)
 
 ## Personal History Statement
 

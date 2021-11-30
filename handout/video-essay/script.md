@@ -7,63 +7,67 @@ Choose one of the following topics:
 2. Tell us about a time when you were called upon to use leadership skills.
 3. Tell us about the area of weakness you most hope your studies at CMU would help you to overcome.
 
-## Material
+## Script
 
-> Tell us about the area of weakness you most hope your studies at CMU would help you to overcome.
+信息密度有点低，不够简洁。
+- 更深度地探索一些可以讲的点；
 
-[Plan of Study](https://mse.isri.cmu.edu/applicants/mse-ap/plan.html)
+## No.1 Weakness To Overcome
 
-Engineering.
+Hi, I'm Weiwen Chen. The weakness I want to overcome most in your program is the ability of planning, budgeting, staffing and risk management.
 
-Sometimes I program by coincidence. (Passionate p20)
+It's invaluable if a geek can lead, or a leader can hack. That's what I exactly want, a holistic set of soft skills to deliver software projects successfully.
 
-Strategy for planning and creating a successful career.
+## Don't worry, I'll be a geek!
 
-I don't quite afraid of mastering technical skills.
+Above all, I believe I'll have good technical abilities.
 
-My physics background give me two key insights:
-- Nobody do physics by conicidence. You should really understand what you are doing.
-- Nobody become a physicist because they want get a job and lead a comfortable job. They want to be **great**.
+My background of physics gives me two insights:
 
-How to invest myself effectively.
+First, I would really understand what I'm doing. In physics, there is no such thing like "Programming by coincidence". First principle matters.
 
-I want to be the worst and the best.
-
-The people around you can affect your own performance.
-
-## Tracer bullet
-
-I wish I know idea of "Tracer Bullets" early. Facing a large number of unknowns. If I code under same environment and under same constraints as real application.
+Besides, I want to be great. Because nobody study physics just for a stable and comfortable life. I switch to programming because I love it, and I want to be a great engineer.
 
 
-In my recent work in lab, my first task was building a throughput recorder in the server side.
+## Case: A delayed throughput recorder
 
-~~~graph-easy --as=boxart
-[ A ] - to -> [ B ]
-~~~
+But I know that I miss some critical skills in project management.
 
-I am working with codebase I was not familiar with, trying to hit a target in the dark. Requirements are vague. Environment are changing.
+I've ever made a project delayed. It was building a throughput recorder between a pair of high-performance server-client.
 
-I made a mistake: Didn't test my recorder in real environment, instead I rely on unit test to check the performance.
+The requirements were vague, the environment was changing, and I was not familiar with the code base.
 
-We need to stress test, use 100% of server's CPU.
+So I relied on unit performance test rather than test in real environment.
 
-At that time the performance of recorder turned out to be a bottleneck.
+It worked well in unit test, but in stress testing, my recorder became a bottleneck. So I did a painfully rewrite.
 
-Project is delayed.
+## Case: I wish I know "Tracer Bullets" earlier.
 
-After that, I read about "Tracer Bullet" in the Pragmatic Programmer
+Several monthes later, I read the book the Pragmatic Programmer, and I realized that the "Tracer Bullets" method is what I need previously.
 
-- To avoid specify the system to death, achieve an end-to-end connection among the components of your system early.
-- under same environment and under same constraints as real application.
-- Check how close to the target you are, adjusting if necessary.
+I know that I should make rubber hits the road earlier, but I don't know exactly how to do it.
 
-That's what I need, but I don't know previously.
+And now I understand that There are systematic approaches to make a software project succeeded.
 
-Make rubber meets the road early.
+Planning, budgeting, staffing and risk management, delivery a project a set of skills that can be trained.
 
-----
+## ...And I believe that my study would overcome it.
 
-I want a holistice skillset to deliver.
+And I believe that your project would help me overcome it.
 
-Programmer geeks can’t lead, and leaders can’t hack.
+There are courses like Agile Methods, Software Project Management, they are what I want.
+
+What's more, it' attractive for me to work with the best and the brightest in your project.
+
+I believe that craftsmanship is a meme, and I'll catch it by observing and working with others.
+
+## Thank you for watching!
+
+Thank you for watching.
+
+And here are some addition information about me:
+
+...
+
+Let's have some music.
+

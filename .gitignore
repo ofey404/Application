@@ -4,6 +4,10 @@ copyrighted-material/*
 # For some reasons
 handout/PS/**/*.docx
 handout/PS/**/*.docx#
+handout/video-essay/musics/
+handout/video-essay/**/*.docx
+handout/video-essay/**/*.docx#
+
 
 *.aux
 *.fdb_latexmk

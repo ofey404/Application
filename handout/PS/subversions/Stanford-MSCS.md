@@ -3,6 +3,44 @@ Statement of Purpose
 
 ## Main
 
+## EndMain
+## Sketch
+
+Technology should help people develop themselves and connect together. I was a ... I want to build a open-source version control system for digital illustrations.
+
+An open-source version control system would change the way we enjoy and create digital illustrations.
+
+- learning
+- collaboration, reshape the community
+- give second life
+
+(short connecting paragraph) it's possible, and it's the time to build one.
+
+- Many digital creator, sharing website
+- but no social collaboration like Github
+
+Besides, I can do it because I have those qualities:
+
+- Eg: My experience to introduce version control.
+- Eg: Challange taker
+- Eg: Focused on collaboration
+
+Why I believe stanford is a good place to make my VCS:
+
+(Short connecting paragraph) VCS for art would be a perfect fit of Stanford's pervasive computing strategy:
+
+- contribute to other discipline
+- to the core of computer science
+- it's about society.
+
+Which specializations and courses of your program attracts me:
+
+- Human-Computer Interaction
+  - ARTSTUDI179 Digital Art I
+- Information Management and Analytics
+  - https://cs.stanford.edu/degrees/mscs/programsheets/20-21/MSCS-2021-IMA.pdf
+- Systems
+  - CS 147: Introduction to Human-Computer Interaction Design
 
 
 ## SOP requirements
@@ -27,6 +65,9 @@ Strategic Plan: https://cs.stanford.edu/about/strategic-plan
 
 > CS is become pervasive in all of society.
 
+> Computational foundations for other academic disciplines: ... We recommend that successful hires should have the potential to make strong contributions to a non-CS discipline and to the core of computer science.
+
+
 ---- 
 
 MS vs PhD:
@@ -40,8 +81,12 @@ MSCS info page: https://web.stanford.edu/dept/registrar/bulletin1112/5254.htm
 My Preferred Specialization Areas (ordered by interest):
 
 - Human-Computer Interaction
-- Systems
+  - https://hci.stanford.edu/courses/
+  - CS 147
 - Information Management and Analytics
+  - https://cs.stanford.edu/degrees/mscs/programsheets/20-21/MSCS-2021-IMA.pdf
+- Systems
+  - CS 147
 
 ## Diversity Statement
 

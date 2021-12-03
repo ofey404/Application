@@ -21,6 +21,38 @@ Stanford MSCS would be a perfect fit of my plan, for your pervasive computing st
 
 ## EndMain
 
+2 problems should have a better answer:
+- Why Stanford MSCS?
+- Why VCS?
+
+### Why VCS & Why Stanford MSCS
+
+- I believe in the social collaboration model of open-source, it would be the future of human collaboration.
+- I bet any work can be remoted would be remote works in next 20 years. The time is right for remote work.
+- Digital illustration creation has adopted CS as a core methodology. Introduce VCS would fundamantally transform it.
+
+VCS would be a key factor to those foresights. It will meed the need.
+
+What's more, Among all the possible choices, VCS would provide a future with more freedom, kindness, sharing. Aside from VCS, monopolied service, shared documents like Google docs also can meet the needs of remote collaboration. But if VCS become the main collaboration tool, it will bring a future of social collaboration, like free/open-source software has already done,
+
+Why stanford
+- Stanford want leader, trained leader.
+- Stanford has strong startup culture.
+  - VCS for artist: a status quo destroying idea.
+- I need soft skills, connections, suchthings to make my vision come true.
+  - I believe I would be a indie hacker, but not sure I would be a 
+
+https://stanfordreview.org/the-slow-death-of-stanfords-startup-culture/
+
+Stanford is (one of) my dream project, but I'm not here to seek prestige and stability -- I choose the path of programming because of its impact. I want to be great.
+
+I'm not a resume padder. Now I'm not, in the future I won't be. I gonna be an innovator.
+
+My background of physics gives me two insights:
+- First, I would really understand what I'm doing. In physics, there is no such thing like "Programming by coincidence". First principle matters.
+- Besides, I want to be great. Because nobody study physics just for a stable and comfortable life. I switch to programming because I love it, and I want to be a great engineer.
+
+
 ## Sketch
 
 Technology should help people develop themselves and connect together. I was a ... I want to build a open-source version control system for digital illustrations.

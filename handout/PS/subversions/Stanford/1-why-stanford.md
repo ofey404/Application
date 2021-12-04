@@ -3,7 +3,7 @@ Statement of Purpose
 
 ## Main
 
-Technology should help people develop themselves and connect together. I hold this belief since my first exposure to programming - installing Linux with the help of friendly strangers on the web. In my opinion, the heart of free/open-source collaboration is the way people work together, a healthy relationship. In the age of remote work, it's time to apply insights from free/open-source software to other non-CS areas, so I want to build an open-source version control system for digital illustrations.
+Technology should help people develop themselves and connect together. I hold this belief since my first exposure to programming - installing Linux with the help of friendly strangers on the web. In my opinion, the heart of free/open-source collaboration is the way people work together, a healthy relationship. In the age of remote work, it's time to apply insights from free/open-source software to other non-CS areas. I want to build an open-source version control system for digital illustrations.
 
 Digital illustration creation has adopted CS as a core methodology, but mass social collaboration is yet to come. I explored popular illustration sharing sites like *pixiv* while learning to sketch, but artworks are shared in the final output figure file format, rather than shared by source like Github. Illustrators could have all merits programmers have enjoyed in open-source collaboration if the right tool is put into their hands.
 
@@ -52,4 +52,41 @@ I can collaboration and I really understand it.
 Stanford's focus on pervasive computing strategy, and vast resources on social science and art would help me.
 
 I am not Athena. I don't born full-grown. I was even a late starter. But I believe I would be somebody, early or late. I would be an indie hacker, finally an open-source leader or something like that. It's a loss if you don't take me into serious consideration.
+
+
+## Why School
+
+Reference: https://www.noodle.com/articles/how-to-answer-why-this-school-on-college-applications
+
+Show your interest.
+- What drew you to the school?
+- Don't list facts staff already know.
+
+----
+
+I've taken Swift lessons (Not finished)
+
+- There are much Stanford MOOCs on the web.
+  - I've taken some of them 
+  - Stanford may be a good place for sharing.
+
+Maybe I should give up this idea.
+
+----
+
+https://opensource.stanford.edu
+
+----
+
+https://news.stanford.edu/2020/04/06/open-science-era-covid-19/
+
+> Everyone is realizing how this ability that we’ve developed really only in the past few years is an amazing tool for disseminating knowledge.
+
+You discuss Open Science, which shows great concern in disseminating knowledge.
+
+The open source lab and UXers team makes me feel you care about those things. There are collaboration in the campus.
+
+I've heard about your open-source robot doggo.
+
+
 

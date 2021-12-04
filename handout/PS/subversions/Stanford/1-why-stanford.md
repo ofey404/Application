@@ -15,11 +15,14 @@ Version control is a real treasure chest for all kinds of creators, and I starte
 
 All those sound like yet another crazy idea, but I am used to taking up challenges and making it through. After I decided to take programming seriously, I pushed myself to sink-or-swim. Two honors program courses, Data Structure and Operating System, designed for sophomore or higher CS major students, that's what I took, while dealing with hardcore physics courses like Electrodynamics. I managed to survive, got a real kickstart, and in addition, made lots of friends. My passionate and agile hacking style was formed in my PingCAP intern days. The job interview task is to build a proxy with several error injection functionalities, within one week. With few Golang experience then, I kept hacking in the convenience store under my dormitory, submitted the assignment on the sixth day. I won the job, and happily found myself competent. What's more, I do not program for prestige and stability, because nobody chooses physics for those either. I love programming, I want to be great at the risk of failing noisily, and I know that Stanford is the place for challengers with crazy ideas.
 
-I won't work alone. I have rich collaboration experiences, and my understanding would help me design a successful VCS. Collaboration is even more powerful when it happens asynchronously and automatically. Newcomers of the SOC lab said they knew me, because they watched my experiment videos. In my recent research, the habit of organizing work with GitHub turned out to be a bonus, because there are always so many lucrative pages I can refer to - issues, pull requests, code review, and technical decisions. Besides, all free/open-source lovers know public good doesn't come from the void, and I'm willing to generate some. I volunteered at PC Service Group for about two years as a python consultant. And I published all my application materials on a public Github repository, to anyone interested. In a school so-called "a tech incubator with a football team," I can work with the best and the brightest, as well as sharpen the soft skills I urgently need - business knowledge, industry insights, and so on.
+I won't work alone. I have rich collaboration experiences, and my understanding would help me design a successful VCS. Collaboration is even more powerful when it happens asynchronously and automatically. Newcomers of the SOC lab said they knew me, because they watched my experiment videos. In my recent research, the habit of organizing work with GitHub turned out to be a bonus, because there are always so many lucrative pages I can refer to - issues, pull requests, code review, and technical decisions. Besides, all free/open-source lovers know public good doesn't come from the void, and I'm willing to generate some. I volunteered at PC Service Group for about two years as a python consultant. And I published all my application materials on a public Github repository, to anyone interested. In the school so-called "a tech incubator with a football team," I can work with the best and the brightest, as well as sharpen the soft skills I urgently need - business knowledge, industry insights, and so on.
 
-Stanford's focus on pervasive computing strategy, and vast resources on social science and art are attractive to me. VCS for illustrations is not only a contribute to discipline of illustration, but also a fundamantal program to the core of computer science. It's about reshaping the illustrator community. Moreover, your specialization also attracts me: HCI was my favorite, I can take lessons like Digital Art while sharpening my programming skill. Information Management and Analytics could also help me, since version control was about managing complex low-level data. (TODO: refactor)
+Stanford won my respect by the mass public good it created, that's why I'm longing a chance to be part of it. During the pandemic I took Stanford CS 144, the quality and the accessibility of materials really impressed me. And in the ongoing open science movement, Stanford is leading the dissemination of knowledge. "different thinking" or entrepreneurship is not enough to describe Stanford, and openness can be a unique power to shape the world.
+
+And I bring a detailed roadmap, if I have the honor to be accepted.
 
 I am an indie hacker, but I'm not Athena who was born full-grown - I started programming at the age of 18. The only thing I'm sure of is that I would be somebody, early or late, in the software industry. And I applied for your renowned MSCS project to grow faster. I believe I will be a valuable asset to the project.
+
 ## EndMain
 
 Shrink those parts:
@@ -50,6 +53,13 @@ I can collaboration and I really understand it.
 - I need more soft skill to make my innovation come true.
 
 Stanford's focus on pervasive computing strategy, and vast resources on social science and art would help me.
+
+Stanford produce considerable public goods:
+- MOOC I take during the pedemic: CS 144
+- The open science movement accelerated dissemination of knowledge.
+- The stanford doggo robot.
+
+I planed a detailed roadmap for my study, if I have the honor to be accepted. I would take a dual path, primary IMA and secondary HCI. I would waive CS 145 and 147, since I have prior experience and courses on database, and I would toughen my knowledge with materials about those two lessons on the web. In my major IMA I would choose CS 245, 346 to form solid understanding of cutting edge data managing systems. CS 249 and 240 to build up my general programming skill. I would also waive CS 147 in HCI, in order to take ARTSTUDI179 Digital Art I. Finally I would finish my version control system as a capstone project in CS 395 - Independent Database Project.
 
 I am not Athena. I don't born full-grown. I was even a late starter. But I believe I would be somebody, early or late. I would be an indie hacker, finally an open-source leader or something like that. It's a loss if you don't take me into serious consideration.
 
@@ -82,11 +92,32 @@ https://news.stanford.edu/2020/04/06/open-science-era-covid-19/
 
 > Everyone is realizing how this ability that we’ve developed really only in the past few years is an amazing tool for disseminating knowledge.
 
+I've ever watched MOOC of Stanford CS144, it's great.
+
 You discuss Open Science, which shows great concern in disseminating knowledge.
 
 The open source lab and UXers team makes me feel you care about those things. There are collaboration in the campus.
 
 I've heard about your open-source robot doggo.
 
+- Information Management and Analytics may be good to me.
+- HCI seems for designers.
+- I can take a dual depth, primary IMA and secondary HCI.
+  - primary:
+    - waive CS 145 for prior database experiences
+    - Cutting edge data management insight:
+      - take CS 245 principle of data-intensive systems
+      - CS 346 database implementation
+    - General programming / low level programming / skill on system software
+      - Stanford CS240: Advanced Topics in Operating Systems
+      - CS 249A OOP
+    - CS 347 HCI research
+    - CS 395: Independent Database Project
+      - As my capstone project.
+      - Implement the VCS
+  - secondary:
+    - waive CS 147 and take (g) ARTSTUDI179 Digital Art I
+
+> Use of database management or file systems for a substantial application or implementation of components of database management system. 
 
 

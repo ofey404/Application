@@ -19,7 +19,7 @@ I won't work alone. I have rich collaboration experiences, and my understanding 
 
 Stanford won my respect by the mass public good it created, that's why I'm longing a chance to be part of it. During the pandemic I took Stanford CS 144, the quality and the accessibility of materials really impressed me. And in the ongoing open science movement, Stanford is leading the dissemination of knowledge. "different thinking" or entrepreneurship is not enough to describe Stanford, and openness can be a unique power to shape the world.
 
-And I bring a detailed roadmap, if I have the honor to be accepted.
+And I bring a detailed roadmap, if I have the honor to be accepted. To deliver my VCS, I would dual in primary IMA and secondary HCI. First, CS 245, 346 could give me a solid understanding on cutting edge data management. Besides, I would waive CS 147 in HCI, in exchange for ARTSTUDI179 Digital Art I. CS 145 would be waived too, to make time for CS 395: Independent Database Project. I will make my VCS as a capstone project there. Also, I consider CS 240 and 249 in IMA to sharpen my low level programming skill.
 
 I am an indie hacker, but I'm not Athena who was born full-grown - I started programming at the age of 18. The only thing I'm sure of is that I would be somebody, early or late, in the software industry. And I applied for your renowned MSCS project to grow faster. I believe I will be a valuable asset to the project.
 

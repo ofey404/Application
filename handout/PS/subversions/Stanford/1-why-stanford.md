@@ -21,7 +21,6 @@ Stanford won my respect by the mass public goods it created, I believe my projec
 
 And I bring a detailed roadmap, if I have the honor to be accepted. To deliver my VCS, I would dual in primary IMA and secondary HCI. First, CS 245, 346 could give me a solid understanding on cutting-edge data management. Besides, According to my prior experience on database, I would like to waive CS 145 to take CS 395: Independent Database Project as an additional course, to make my VCS as a capstone project on CS 395. In HCI secondary, I would take ARTSTUDI179 Digital Art I from area (g). Also, I consider CS 240 and 249 in IMA to sharpen my low-level programming skill.
 
-
 I am an indie hacker, but I'm not Athena who was born full-grown - I started programming at the age of 18. The only thing I'm sure of is that I would be somebody, early or late, in the software industry. And I applied for your renowned MSCS project to grow faster. I believe I will be a valuable asset to the project.
 
 ## EndMain

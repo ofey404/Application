@@ -1,0 +1,5 @@
+
+wc-0:
+	grep -zoP '## Main\s*\K[\s\S]*(?=\s*## EndMain)' 0.md | wc -w 
+	grep -zoP '### Part 1: Experience and Background\s*\K[\s\S]*(?=\s*### End1)' 0.md | wc -w 
+	grep -zoP '### Part 2: Purpose, Goals, and Achievements\s*\K[\s\S]*(?=\s*### End2)' 0.md | wc -w 

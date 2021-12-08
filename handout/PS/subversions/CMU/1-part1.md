@@ -21,18 +21,11 @@ Optional:
 
 metrics-checker was a test infra I made in PingCAP QA team. Written in Golang, initially used to monitor test coverage by collecting metrics in TiDB, then became an effective part in the testing pipeline by its flexibility.
 
-I initiate the idea and persuaded the QA team that it's feasible and beneficial. Noticing some uncollected metrics in TiDB can reveal test coverage, I dicussed with my mentor Shaowen about utilizing it. With positive feedback, I studied and found prometheus's AlertManager did not fit our need well. But after I read AlartManger's implementation, building a metrics checker become more viable to me. Thanks to extensive study, I made a presentation to sold the idea to my colleagues, and own the task of delivering it.
+I initiate the idea and persuaded the QA team that it's feasible and beneficial. Some uncollected metrics in TiDB can reveal coverage information, I noticed it and dicussed with my mentor Shaowen. With positive feedback, I studied and found prometheus's AlertManager did not fit our need well. But after I read AlartManger's implementation, building a metrics checker become more viable. Thanks to extensive study, I made a presentation to sold the idea to my colleagues, and own the task of delivering it.
 
-I collected requirements, designed it and push it forward, while my mentor observed and judged my decision by constant code review. The best part of the metrics-checker is its data-driven design: the logic of checking are expressions stored in yaml file, based on PromQL, and the checker itself acts as an executor. By seperating the mechanism and strategy, it can do more with less, and is easy to maintain and deploy. After all, it's good to hear it still  acts as a handy tool, well beyond my expetation.
-
-
-
-The most challanging issue I faced
-
+I collected requirements, designed it and push it forward, while my mentor observed and judged my decision by constant code review. The best part of the metrics-checker is its data-driven design: the logic of checking are expressions stored in yaml file, based on PromQL, and the checker itself acts as an executor. By seperating the mechanism and strategy, it can do more with less, and is easy to maintain and containerize. After all, it's good to hear it still maintained and acts as a handy tool, well beyond my expetation.
 
 ## EndMain
-
-The metrics-checker goes far beyond my expectation, it was maintained and widely used even after I left. I think I did a right thing: use data-driven programming. The metrics-checker was written in Golang, and accepting yaml config files. It execute expressions defined in yaml file, which leads to flexibility, since the program itself would be built into a container image file, it's important to seperate mechanism and strategy. 
 
 ### Metrics checker project
 

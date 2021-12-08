@@ -21,9 +21,34 @@ Optional:
 
 metrics-checker was a test infra I made in PingCAP QA team. Written in Golang, initially used to monitor test coverage by collecting metrics in TiDB, then became an effective part in the testing pipeline by its flexibility.
 
-I initiate the idea and persuaded the QA team that it's feasible and beneficial. Some uncollected metrics in TiDB can reveal coverage information, I noticed it and dicussed with my mentor Shaowen. With positive feedback, I studied and found prometheus's AlertManager did not fit our need well. But after I read AlartManger's implementation, building a metrics checker become more viable. Thanks to extensive study, I made a presentation to sold the idea to my colleagues, and own the task of delivering it.
+I initiate the idea and persuaded the whole QA team that it's feasible and beneficial. Some uncollected metrics in TiDB can reveal coverage information, I noticed it and dicussed with my mentor Shaowen. With positive feedback, I studied and found prometheus's AlertManager did not fit our need well. But after I read AlartManger's implementation, building a metrics checker become more viable. Thanks to extensive study, I made a presentation to sold the idea to my colleagues, and own the task of delivering it.
 
 I collected requirements, designed it and push it forward, while my mentor observed and judged my decision by constant code review. The best part of the metrics-checker is its data-driven design: the logic of checking are expressions stored in yaml file, based on PromQL, and the checker itself acts as an executor. By seperating the mechanism and strategy, it can do more with less, and is easy to maintain and containerize. After all, it's good to hear it still maintained and acts as a handy tool, well beyond my expetation.
+
+----
+
+At DASLab of Fudan university, I engaged in development of a ML based multi-tanent KV. It's a research project based on an 2014 CMU paper MICA, built with C++ and DPDK. A doctral student did the machine learning part, and I took responsibility of the low-level programming part.
+
+I utilized lots of skills to collaborate effectively.
+
+In my recent research, the habit of organizing work with *GitHub* turned out to be a bonus, because there are always so many lucrative pages I can refer to - issues, pull requests, code review, and technical decisions.
+
+And in the KV project, I face the most challanging issue I have ever met. "How to collaborate with the absent original developer" - there was few tests and documentations.
+
+- add formal methods drop by drop
+
+If I could do it again, I would do it differently:
+
+- tech debt is a tool, real life software engineering is an art of tradeoff.
+- Just like before release at Database internship
+
+----
+
+The last teamwork project I'd like to mention is special: I tried to apply version control to a non-cs lab. And I realized version control is a real treasure chest for all kinds of creators.
+
+In the small team, among me, graduate student Bo and supervisor Hao, I'm the only programmer style people.
+
+I spent extra effort to introduce version control.
 
 ## EndMain
 

@@ -3,9 +3,11 @@ Part 1: Experience and Background
 
 ## Main
 
-"Craftsmanship is a contagion, a kind of mental virus. You catch it by observing others and allowing the meme to take hold." 
 
-"Developing Software" is not a noun, instead, it's the process of creating a thing. I observe others and learn.
+
+"Developing Software" is not a noun, instead, it's the process of creating a thing.
+
+And craftsmanship is a meme, I observe others and learn in my self-taught, interest-driven journey.
 
 I want to be a professional.
 

@@ -1,3 +1,6 @@
+wc-6:
+	cat 6-refactor.md |  wc -w 
+
 wc-5:
 	cat 5-sketch.md |  wc -w 
 

@@ -1,3 +1,6 @@
+wc-4:
+	grep -zoP '## Main\s*\K[\s\S]*(?=\s*## EndMain)' 4-part1.md | wc -w 
+
 wc-3:
 	grep -zoP '## Main\s*\K[\s\S]*(?=\s*## EndMain)' 3-part2.md | wc -w 
 

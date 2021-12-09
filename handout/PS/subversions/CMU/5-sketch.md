@@ -5,6 +5,8 @@ Statement of Purpose
 
 "More is different." that's the very thing I understand after I switch from natural science to engineering. Developing Software is not a noun, instead, it's the process of creating a thing with people coming together. And craftsmanship is a meme, it would sink in when I was collaborating, observing and learning.
 
+// teamwork? more is different?
+
 metrics-checker was a test infra I made in PingCAP QA team, I deliver it supervised by my mentor. Written in Golang, it became an effective part in the testing pipeline by its flexibility. The idea came from my observation of our daily workflow, and I persuaded the whole QA team by extensive research. With positive feedback of my mentor Shaowen, I studied optional solution: prometheus's AlertManager. Though it was not quite suitable, by reading its implementations, I thought building a stand alone metrics checker is viable. Then after a presentation, I sold the idea to my colleagues, and own the task to deliver it. It turned out to be a handy tool, still maintained and upgraded even after I left.
 
 From the success of metrics-checker, I learnt good design can do more with less. By offloading logic to yaml config file, checker itself acts as an executor, which made it data-driven and could be deployed in a breeze. The seperation of mechanism and strategy was reached by intensive requirement collection, study open-source code and redesign, while my mentor observed and judged my decision by constant code review.
@@ -13,30 +15,15 @@ At DASLab, I engaged in research of multi-tanent KV, based on an 2014 CMU paper 
 
 I applied an effective way to communicate: organizing our work with *GitHub*. We synced the progress, recorded technical decision and shared knowledge with wiki page. It turned out to be a bonus when another graduated student joined, because there are always so many lucrative pages I can refer to - issues, pull requests, code review, and so on.
 
-However, I faced probably the most challanging issue in my whole developer life: How to get things done on an existed imperfect project. With few documentation and tests, and tight time constraint, I faced a dilemma: an overhawl on testing to deliver reliable code was time consuming, but if a quick and dirty prototype didn't work, the time built it would be totally wasted. I tilting at windmills with all formal method I know, made a bitter decision of refactor. The planned refactor never really finished, because it's equal to totally change the codebase's nature. Sadly, I had to admit delay of the strong result-oriented research project.
+However, the most challanging issue I have ever encountered lay in this project: How to get things done on an existed imperfect project. With few documentation and tests, and tight time constraint, I faced a dilemma: an overhawl of test for reliable code was time consuming, but if I made a quick and dirty prototype but failed, I couldn't afford the time loss. I tilted at windmills with all formal method I know, made a bitter decision of refactor. But the refactor never really finished, because it was almost equal to totally change the codebase's nature. Finally, I had to admit delay of the strong result-oriented research project.
 
-I utilized formal ways like test framework to push the progress forward, and constantly exchange ideas of source code with my partner.
+If I could say one thing to my past self, I would say, tech debt is not a prohibition but a tool, if used wisely. Also, if I knew more software engineering then, I might come up with the "tracer bullets code" method: Write simple structure code to keep, rather than disposible prototype, since immediate feedback is crucial When facing unknown target. Real life engineering is an art, and I'm longing to learn more in your program.
 
-When I develop new functionalities, I spent too much time to do it clean and maintainable.
-
-Finally, the project was still delayed to some extent.
-
-If I could say one thing to my past self, I would told him tech debt is not a prohibition but a tool, and use it wisely.
-
-Also, if I know more software engineering, I might come up with the tracer bullets code method - 
-
-Sooner or later, we would take over imperfect software project, but real life engineering is an art of tradeoff.
-
-One more special project to mention: I introduced version control to computational physics lab I worked two years ago. To my surprise, it become a productivity tool even in non-CS descipline.
-
-In the development of two-dimensional calculation pipeline with graduate student Bo and supervisor Mr. Zhang, I set up a *Gitlab* instance. First is for my own use, then I tried to introduce it to my colleagues. After I gave several lectures and wrote documentation, some started to manage code, some stored slides, notes, or even paper drafts. It is actively used even after I left, and last month I gave a lecture about git to their newcomers at the invitation of supervisor Mr. Zhang.
-
-Version control is a real treasure chest for all kinds of creators, that's why I came up with the idea of building an open-source version control system for artists.
-
+One more special experience to mention: By introducing version control to computational physics lab, I found a real treasure chest even for non-CS creators. At first I set a *Gitlab* instance for myself, but after I gave several lectures and wrote documention, my colleague started to utilize it in varioush ways: managing code, sharing slides, or even writing paper together. The *Gitlab* instance is actively used even after I left, and last month I gave a lecture about git to their newcomers at the invitation of supervisor. This experience made me feel it's possible to unleash the power for artist community through an open-source version control system for illustrations, which would be discussed detailed in the coming part.
 
 ## Part 2: Purpose, Goals, and Achievements
 
-Technology should help people develop themselves and connect together. I hold this belief since my first exposure to programming - installing Linux with the help of friendly strangers on the web. In my opinion, the heart of free/open-source collaboration is the way people work together, a healthy relationship. In the age of remote work, it's time to apply insights from free/open-source software to other non-CS areas. I want to build an open-source version control system for digital illustrations.
+My short term goal is building an open-source version control system for digital illustrations, and in the long run my goal is to be an open-source leader, focusing on the disemination of knowledge. Technology should help people develop themselves and connect together. I hold this belief since my first exposure to programming - installing Linux with the help of friendly strangers on the web. In the age of remote work, it's time to apply insights from free/open-source software to other non-CS areas. 
 
 Digital illustration creation has adopted CS as a core methodology, but mass social collaboration is yet to come. Compared with all possible solutions of visual artists' remote collaboration, like shared storage workspace, open-source VCS would lead to a free and unified ecosystem. Artist communities could enjoy the merit of asynchronous and fine-grained cooperation, which are well tested. Besides, a company-neutral open-source project can be compatible with all competing file formats. It's for the good of all creators, not just for specific drawing software producers.
 

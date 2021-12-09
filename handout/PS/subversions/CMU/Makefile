@@ -1,3 +1,6 @@
+wc-5:
+	cat 5-sketch.md |  wc -w 
+
 wc-4:
 	grep -zoP '## Main\s*\K[\s\S]*(?=\s*## EndMain)' 4-part1.md | wc -w 
 

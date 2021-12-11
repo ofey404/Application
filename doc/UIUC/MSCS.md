@@ -1,3 +1,11 @@
+## 211210
+
+Academic Statement of Purpose
+
+Please use the Academic Statement of Purpose to describe (within 1000 words): (1) the substantive scholarly questions you are interested in exploring in graduate study, (2) your academic background, intellectual interests, and any training, research, or other experiences that have prepared you for graduate study, (3) how our program would help you achieve your intellectual goals, (4) any specific faculty members, if applicable, whose research interests align with your own interests, and (5) your professional goals.
+
+## Before 211210
+
 https://cs.illinois.edu/academics/graduate/ms-program
 
 

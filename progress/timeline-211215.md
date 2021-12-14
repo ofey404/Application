@@ -3,7 +3,7 @@ Timeline and other info before 211215
 
 Progress check: 3 * 1000 + 2 * (500/500).
 
-- [ ] UCLA MSCS: https://apply.grad.ucla.edu/apply/
+- [x] UCLA MSCS: https://apply.grad.ucla.edu/apply/
   - PS + SOP, 500 / 500
 - [ ] UIUC MCS: https://choose.illinois.edu/apply/
   - Academic SOP, 1000

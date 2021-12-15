@@ -47,7 +47,6 @@ In the long run, an open-source leader is what I want to be. This path needs mor
 
 I bring my roadmap, if I have the honor to be accepted. The first year will be tough, but I would keep an eye on my Advanced to Candidacy (ATC). Planning to submit it early, I want to make my VCS as a Capstone Project. IDM lab and CV lab would be the perfect place for me to seek adversory and technical support.
 
-
 ### Personal Statement
 
 Technology should help people develop themselves and connect together. I hold this belief since my first exposure to programming - installing Linux with the help of friendly strangers on the web. In my opinion, the heart of free/open-source collaboration is the way people work together, a healthy relationship. Openness can be a unique power to shape the world, and my journey is guided by it.

@@ -5,16 +5,16 @@ Progress check: 3 * 1000 + 2 * (500/500).
 
 - [x] UCLA MSCS: https://apply.grad.ucla.edu/apply/
   - PS + SOP, 500 / 500
-- [ ] UIUC MCS: https://choose.illinois.edu/apply/
+- [x] UIUC MCS: https://choose.illinois.edu/apply/
   - Academic SOP, 1000
-- [ ] UCSB: https://www.graddiv.ucsb.edu/eapp/app/Index.aspx
+- [x] UCSB: https://www.graddiv.ucsb.edu/eapp/app/Index.aspx
   - SOP + Personal Achievements/Contributions Statement, 500 / 500 (?)
   - TODO: Research interest and faculty want to work with.
-- [ ] UCSD: https://connect.grad.ucsd.edu/account/login?r=https%3a%2f%2fconnect.grad.ucsd.edu%2fapply%2f
+- [x] UCSD: https://connect.grad.ucsd.edu/account/login?r=https%3a%2f%2fconnect.grad.ucsd.edu%2fapply%2f
   - SOP, 1000 (?)
   - COVID-19 Personal Statement, short
   - TODO: current in progress coursework.
-- [ ] DUKE CS: https://shib.oit.duke.edu/idp/authn/external?conversation=e1s1
+- [ ] DUKE CS: https://applygp.duke.edu/apply/?sr=b1373b6d-845e-4ee0-b555-b37b844519fe
   - SOP, 1000
   - optional: Diversity, 500; video
   - TODO: Area(s) of Interest, Faculty

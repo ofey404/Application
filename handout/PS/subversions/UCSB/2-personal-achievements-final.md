@@ -1,8 +1,6 @@
 Personal Achievements/Contributions Statement
 =============================================
 
-## Main
-
 "More is different." that's the very thing I understand after I switch from natural science to engineering. Developing software is not a noun; instead, it's a verb phrase, composed with two complicated factor: technology and people.  And my journey is guided by them.
 
 In QA team of PingCAP, I sold the idea of metrics-checker to my colleagues by research and presentation, and delivered it with close collaboration of my mentor Shaowen. It was a test infra written in Golang, based on my observation that some metrics in TiDB can reveal test coverage. To prove it's beneficial and viable, I studied existed optional solution like prometheus's AlertManager, and made a presentation on daily stand-up. I own the task, and deliver it with intensive requirement collection, study open-source code, design and redesign, while my mentor observed and judged my decision by constant code review. Though it's a small team, I got an hand-on experience on what teamwork can produce.
@@ -13,4 +11,3 @@ I enjoy public goods produced by the Free/open-source community, and I am trying
 
 "Information is power," Aaron Swartz said, and I would contribute to diversity by focusing on accessibility. The mode of Git, distributed open-source version control, is proved to be effective in passing invisible wall. My common ID 'ofey404' is to remind the big day I bypassed the Great Firewall with open-source software. I won't be another brick in the wall, a self-serving elite, because I know how information is poisoned and people are divided. My VCS project is focused on disseminating knowledge, and I believe I can motivate my classmates to be more informed citizens.
 
-## EndMain

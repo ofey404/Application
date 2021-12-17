@@ -1,11 +1,11 @@
 Statement of Purpose
 ====================
 
-## Main
+I'm Weiwen Chen, applying to MSCS program in department of Computer Science and Engineering.
 
 Technology should help people develop themselves and connect together. I hold this belief since my first exposure to programming - installing Linux with the help of friendly strangers on the web. In my opinion, the heart of free/open-source collaboration is the way people work together, a healthy relationship. In the age of remote work, it's time to apply insights from free/open-source software to other non-CS areas. I want to build an open-source version control system for digital illustrations.
 
-Digital illustration creation has adopted CS as a core methodology, but mass social collaboration is yet to come. As a fan of visual art, I explored popular illustration sharing sites like *pixiv* while learning to sketch, but artworks are shared in the final output figure file format, rather than shared by source like *GitHub*. Illustrators could have all merits programmers have enjoyed in open-source collaboration if the right tool is put into their hands.
+Digital illustration creation has adopted CS as a core methodology, but mass social collaboration is yet to come. As a fan of visual art and manga, I explored popular illustration sharing sites like *pixiv* while learning to sketch, but artworks are shared in the final output figure file format, rather than shared by source like *GitHub*. Illustrators could have all merits programmers have enjoyed in open-source collaboration if the right tool is put into their hands.
 
 Among all possible solutions of visual artists' remote collaboration, open-source VCS would lead to a free and unified ecosystem. Compared with online documents or sharing project files directly, VCS enables asynchronous and fine-grained cooperation, which can be the foundation of a productive community willing to share. Besides, only a company-neutral open-source project can be compatible with all competing file formats. It's for the good of all creators, not just for specific drawing software producers.
 
@@ -17,10 +17,8 @@ All those sound like yet another crazy idea, but I am used to taking up challeng
 
 I won't work alone. I have rich collaboration experiences, and my understanding on it would help me design a successful VCS. Collaboration is even more powerful when it happens asynchronously and automatically. My experiment video recorded in SOC lab helped many newcomers, far beyond my expectations. In my recent research, the habit of organizing work with *GitHub* turned out to be a bonus, because there are always so many lucrative pages I can refer to - issues, pull requests, code review, and technical decisions. Besides, all free/open-source lovers know public good doesn't come from the void, and I'm willing to generate some. I volunteered at PC Service Group for about two years as a python consultant. And I published all my application materials on a public *GitHub* repository, to anyone interested.
 
-In the long run, an open-source leader is what I want to be. This path needs more than just devotion, but also maturity in engineering and a holistic understanding of technical, economic, and social issues. I believe UCSB could be my portal to larger context, connecting to the widest possible array of experts, facilities and resources.
+In the long run, an open-source leader is what I want to be. This path needs more than just devotion, but also maturity in engineering and a holistic understanding of technical, economic, and social issues. I believe UCSD could be my portal to larger context, connecting to the widest possible array of experts, facilities and resources, and your focus on research could give me a bit picture of the CS descipline.
 
-And I bring a detailed roadmap, if I have the honor to be accepted. To build my muscle for real world problems, I would choose Systems as my major area, and complete the program with my VCS project. I would take CS 274 Advanced Topics in Database Systems and CS 280 Computer Graphics early, to build a solid knowledge base on data management. The first year would be tough, but I plan to search for my research advisor early. In the faculties the Database and Information Systems research area, I could find my mentor of 596 Directed Research and final project.
+And I bring a detailed roadmap, if I have the honor to be accepted. I would choose the thesis plan and deliver my VCS as the capstone, so I will start searching my supervisor early, especially in the research area of Database and Information Systems. In breadth requirement, I would take CSE 232 Principles of Database Systems and CSE 210 Principles of Software Engineering, to build a solid knowledge base on cutting edge data management. And UC San Diego Database Lab would be the perfect place for me to seek adversory and technical support.
 
-I applied for your renowned MSCS project to grow faster. I am an indie hacker, but I'm not Athena who was born full-grown - I started programming at the age of 18. The only thing I'm sure of is that I would be somebody, early or late, in the software industry. I believe I will be a valuable asset to the project.
-
-## EndMain
+I am an indie hacker, but I'm not Athena who was born full-grown - I started programming at the age of 18. The only thing I'm sure of is that I would be somebody, early or late, in the software industry. And I applied for your renowned MSCS project to grow faster. I believe I will be a valuable asset to the project.

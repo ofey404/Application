@@ -14,10 +14,10 @@ Progress check: 3 * 1000 + 2 * (500/500).
   - SOP, 1000 (?)
   - COVID-19 Personal Statement, short
   - TODO: current in progress coursework.
-- [ ] DUKE CS: https://applygp.duke.edu/apply/?sr=b1373b6d-845e-4ee0-b555-b37b844519fe
+- [x] DUKE CS: https://applygp.duke.edu/apply/?sr=b1373b6d-845e-4ee0-b555-b37b844519fe
   - SOP, 1000
   - optional: Diversity, 500; video
-  - TODO: Area(s) of Interest, Faculty
+  - TODO: Area(s) of Interest, Faculty: https://sites.duke.edu/duke_dbgroup/people/
 
 
 

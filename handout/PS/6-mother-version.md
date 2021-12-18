@@ -1,5 +1,5 @@
-Statement of Purpose, 1000 words version
-========================================
+Statement of Purpose
+====================
 
 Technology should help people develop themselves and connect together. I hold this belief since my first exposure to programming - installing Linux with the help of friendly strangers on the web. In my opinion, the heart of free/open-source collaboration is the way people work together, a healthy relationship. In the age of remote work, it's time to apply insights from free/open-source software to other non-CS areas. I want to build an open-source version control system for digital illustrations.
 

@@ -27,7 +27,11 @@ Progress check: 500/500 * 2 + 1000 * 4 + 250/250
 To ensure that the MEng Program is a good fit for you, we ask you to review the following websites carefully regarding the program, the areas of study, application instructions and deadlines: the MEng Program website and the degree granting department specific pages.
 
 - https://funginstitute.berkeley.edu/programs-centers/full-time-program/
-- https://funginstitute.berkeley.edu/programs-centers/full-time-program/engineering-departments/
+- https://funginstitute.
+
+berkeley.
+
+edu/programs-centers/full-time-program/engineering-departments/
 
 ### Statement of Purpose
 

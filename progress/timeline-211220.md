@@ -3,14 +3,14 @@ Timeline and other info before 211220
 
 Progress check: 500/500 * 2 + 1000 * 4 + 250/250
 
-- [ ] Berkeley Meng: https://gradapp.berkeley.edu/apply/
+- [x] Berkeley Meng: https://gradapp.berkeley.edu/apply/
   - SOP,PHS,Video: 500/500/1-2min
   - GPA Calculation Worksheet
   - Alternate Program
-- [ ] Johns Hopkins: https://applygrad.jhu.edu/apply/?sr=08ff6c28-be36-4957-a6c9-7ebe87484092
+- [x] Johns Hopkins: https://applygrad.jhu.edu/apply/?sr=08ff6c28-be36-4957-a6c9-7ebe87484092
   - SOP: 1 - 2 pages
   - Faculty Member(s) of Interest
-- [ ] Penn: https://www.applyweb.com/cgi-bin/app?s=upenng
+- [x] Penn: https://www.applyweb.com/cgi-bin/app?s=upenng
   - PS: 1000
 - [ ] UC Davis: https://apply.grad.ucdavis.edu/apply/
   - SOP, PHS: 4000/4000 char

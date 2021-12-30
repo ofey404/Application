@@ -2,7 +2,7 @@ finals := $(wildcard *-final.md)
 pdfs := $(patsubst %.md,%.pdf,$(finals))
 
 1:
-	grep -zoP '## Main\s*\K[\s\S]*(?=\s*## EndMain)' 1-*.md | wc -w 
+	grep -zoP '## Main\s*\K[\s\S]*(?=\s*## EndMain)' 1-sop.md | wc -w 
 
 0:
 	grep -zoP '## Main\s*\K[\s\S]*(?=\s*## EndMain)' 0.md | wc -w 
